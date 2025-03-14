@@ -1,0 +1,841 @@
+2024-12-28 11:20:00,064 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:20:05,465 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 11:20:05,526 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 11:20:07,125 - backend_logger - INFO - EDA...
+2024-12-28 11:20:07,125 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 11:20:07,714 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 11:20:07,810 - backend_logger - INFO - EDA PART 1
+2024-12-28 11:20:07,820 - backend_logger - INFO - EDA PART 2
+2024-12-28 11:20:07,837 - backend_logger - INFO - EDA PART 3
+2024-12-28 11:20:07,839 - backend_logger - INFO - EDA PART 4
+2024-12-28 11:20:07,840 - backend_logger - INFO - EDA PART 5
+2024-12-28 11:20:07,847 - backend_logger - INFO - EDA PART 6
+2024-12-28 11:20:07,847 - backend_logger - INFO - EDA ended
+2024-12-28 11:20:07,866 - backend_logger - INFO - ...EDA
+2024-12-28 11:20:07,866 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 11:20:07,888 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:20:16,426 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:20:25,665 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:20:39,054 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:20:42,097 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 11:20:42,173 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 11:20:43,770 - backend_logger - INFO - EDA...
+2024-12-28 11:20:43,770 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 11:20:44,248 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 11:20:44,284 - backend_logger - INFO - EDA PART 1
+2024-12-28 11:20:44,293 - backend_logger - INFO - EDA PART 2
+2024-12-28 11:20:44,310 - backend_logger - INFO - EDA PART 3
+2024-12-28 11:20:44,312 - backend_logger - INFO - EDA PART 4
+2024-12-28 11:20:44,313 - backend_logger - INFO - EDA PART 5
+2024-12-28 11:20:44,320 - backend_logger - INFO - EDA PART 6
+2024-12-28 11:20:44,320 - backend_logger - INFO - EDA ended
+2024-12-28 11:20:44,339 - backend_logger - INFO - ...EDA
+2024-12-28 11:20:44,340 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 11:20:44,362 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:20:45,841 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:23:12,772 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:23:15,501 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 11:23:15,578 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 11:23:17,185 - backend_logger - INFO - EDA...
+2024-12-28 11:23:17,185 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 11:23:17,865 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 11:23:17,959 - backend_logger - INFO - EDA PART 1
+2024-12-28 11:23:17,974 - backend_logger - INFO - EDA PART 2
+2024-12-28 11:23:18,008 - backend_logger - INFO - EDA PART 3
+2024-12-28 11:23:18,012 - backend_logger - INFO - EDA PART 4
+2024-12-28 11:23:18,013 - backend_logger - INFO - EDA PART 5
+2024-12-28 11:23:18,028 - backend_logger - INFO - EDA PART 6
+2024-12-28 11:23:18,029 - backend_logger - INFO - EDA ended
+2024-12-28 11:23:18,031 - backend_logger - INFO - ...EDA
+2024-12-28 11:23:18,032 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 11:23:18,067 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:23:20,587 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:23:27,485 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:23:30,483 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:23:39,916 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 11:23:39,917 - backend_logger - INFO - Preprocess is started
+2024-12-28 11:23:39,960 - backend_logger - ERROR - Ошибка обучения модели: 0
+2024-12-28 11:23:39,964 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:26:40,629 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:26:45,613 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:28:07,566 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:28:14,713 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:28:16,199 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:31:04,371 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:31:13,774 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:31:15,188 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:31:15,202 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 11:31:15,202 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 11:31:15,206 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 11:44:53,753 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:45:00,522 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:45:01,868 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:45:01,881 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 11:45:01,881 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 11:45:01,884 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 11:46:51,675 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:46:59,977 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:47:01,292 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:47:01,301 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 11:47:01,301 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 11:47:01,312 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 11:49:14,257 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:49:18,415 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:49:21,271 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:49:21,290 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 11:49:21,291 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 11:49:21,294 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 11:50:47,892 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:50:56,883 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:50:58,435 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:50:58,461 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 11:50:58,461 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 11:50:58,465 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 11:55:01,799 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:55:10,719 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:55:12,156 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:55:12,184 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 11:55:12,184 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 11:55:12,188 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 11:56:39,567 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:56:47,354 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:56:52,027 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:56:53,302 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 11:56:53,314 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 11:56:53,324 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 11:56:53,329 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:01:47,453 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:02:01,144 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 12:02:01,196 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 12:02:02,798 - backend_logger - INFO - EDA...
+2024-12-28 12:02:02,798 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 12:02:03,377 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 12:02:03,477 - backend_logger - INFO - EDA PART 1
+2024-12-28 12:02:03,487 - backend_logger - INFO - EDA PART 2
+2024-12-28 12:02:03,504 - backend_logger - INFO - EDA PART 3
+2024-12-28 12:02:03,506 - backend_logger - INFO - EDA PART 4
+2024-12-28 12:02:03,507 - backend_logger - INFO - EDA PART 5
+2024-12-28 12:02:03,514 - backend_logger - INFO - EDA PART 6
+2024-12-28 12:02:03,514 - backend_logger - INFO - EDA ended
+2024-12-28 12:02:03,551 - backend_logger - INFO - ...EDA
+2024-12-28 12:02:03,552 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 12:02:03,572 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:02:06,412 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 12:02:06,412 - backend_logger - INFO - Preprocess is started
+2024-12-28 12:02:06,416 - backend_logger - ERROR - Ошибка обучения модели: 'PosixPath' object has no attribute 'shape'
+2024-12-28 12:02:06,421 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:07:12,120 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:07:20,585 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:07:32,457 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 12:07:32,531 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 12:07:34,129 - backend_logger - INFO - EDA...
+2024-12-28 12:07:34,129 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 12:07:34,704 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 12:07:34,797 - backend_logger - INFO - EDA PART 1
+2024-12-28 12:07:34,807 - backend_logger - INFO - EDA PART 2
+2024-12-28 12:07:34,824 - backend_logger - INFO - EDA PART 3
+2024-12-28 12:07:34,826 - backend_logger - INFO - EDA PART 4
+2024-12-28 12:07:34,827 - backend_logger - INFO - EDA PART 5
+2024-12-28 12:07:34,834 - backend_logger - INFO - EDA PART 6
+2024-12-28 12:07:34,834 - backend_logger - INFO - EDA ended
+2024-12-28 12:07:34,858 - backend_logger - INFO - ...EDA
+2024-12-28 12:07:34,858 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 12:07:34,881 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:07:38,195 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 12:07:38,208 - backend_logger - ERROR - Ошибка обучения модели: Multiple files found in ZIP file. Only one file per ZIP: ['Georgia/', 'Georgia/E08807.hea', 'Georgia/E08807.mat', 'Georgia/E08808.hea', 'Georgia/E08808.mat', 'Georgia/E08809.hea', 'Georgia/E08809.mat', 'Georgia/E08810.hea', 'Georgia/E08810.mat', 'Georgia/E08811.hea', 'Georgia/E08811.mat', 'Georgia/E08812.hea', 'Georgia/E08812.mat', 'Georgia/E08813.hea', 'Georgia/E08813.mat', 'Georgia/E08814.hea', 'Georgia/E08814.mat', 'Georgia/E08815.hea', 'Georgia/E08815.mat', 'Georgia/E08816.hea', 'Georgia/E08816.mat', 'Georgia/E08817.hea', 'Georgia/E08817.mat', 'Georgia/E08818.hea', 'Georgia/E08818.mat', 'Georgia/E08819.hea', 'Georgia/E08819.mat', 'Georgia/E08820.hea', 'Georgia/E08820.mat', 'Georgia/E08821.hea', 'Georgia/E08821.mat', 'Georgia/E08822.hea', 'Georgia/E08822.mat', 'Georgia/E08823.hea', 'Georgia/E08823.mat', 'Georgia/E08824.hea', 'Georgia/E08824.mat', 'Georgia/E08825.hea', 'Georgia/E08825.mat', 'Georgia/E08826.hea', 'Georgia/E08826.mat', 'Georgia/E08827.hea', 'Georgia/E08827.mat', 'Georgia/E08828.hea', 'Georgia/E08828.mat', 'Georgia/E08829.hea', 'Georgia/E08829.mat', 'Georgia/E08830.hea', 'Georgia/E08830.mat', 'Georgia/E08831.hea', 'Georgia/E08831.mat', 'Georgia/E08832.hea', 'Georgia/E08832.mat', 'Georgia/E08833.hea', 'Georgia/E08833.mat', 'Georgia/E08834.hea', 'Georgia/E08834.mat', 'Georgia/E08835.hea', 'Georgia/E08835.mat', 'Georgia/E08836.hea', 'Georgia/E08836.mat', 'Georgia/E08837.hea', 'Georgia/E08837.mat', 'Georgia/E08838.hea', 'Georgia/E08838.mat', 'Georgia/E08839.hea', 'Georgia/E08839.mat', 'Georgia/E08840.hea', 'Georgia/E08840.mat', 'Georgia/E08841.hea', 'Georgia/E08841.mat', 'Georgia/E08842.hea', 'Georgia/E08842.mat', 'Georgia/E08843.hea', 'Georgia/E08843.mat', 'Georgia/E08844.hea', 'Georgia/E08844.mat', 'Georgia/E08845.hea', 'Georgia/E08845.mat', 'Georgia/E08846.hea', 'Georgia/E08846.mat', 'Georgia/E08847.hea', 'Georgia/E08847.mat', 'Georgia/E08848.hea', 'Georgia/E08848.mat', 'Georgia/E08849.hea', 'Georgia/E08849.mat', 'Georgia/E08850.hea', 'Georgia/E08850.mat', 'Georgia/E08851.hea', 'Georgia/E08851.mat', 'Georgia/E08852.hea', 'Georgia/E08852.mat', 'Georgia/E08853.hea', 'Georgia/E08853.mat', 'Georgia/E08854.hea', 'Georgia/E08854.mat', 'Georgia/E08855.hea', 'Georgia/E08855.mat', 'Georgia/E08856.hea', 'Georgia/E08856.mat', 'Georgia/E08857.hea', 'Georgia/E08857.mat', 'Georgia/E08858.hea', 'Georgia/E08858.mat', 'Georgia/E08859.hea', 'Georgia/E08859.mat', 'Georgia/E08860.hea', 'Georgia/E08860.mat', 'Georgia/E08861.hea', 'Georgia/E08861.mat', 'Georgia/E08862.hea', 'Georgia/E08862.mat', 'Georgia/E08863.hea', 'Georgia/E08863.mat', 'Georgia/E08864.hea', 'Georgia/E08864.mat', 'Georgia/E08865.hea', 'Georgia/E08865.mat', 'Georgia/E08866.hea', 'Georgia/E08866.mat', 'Georgia/E08867.hea', 'Georgia/E08867.mat', 'Georgia/E08868.hea', 'Georgia/E08868.mat', 'Georgia/E08869.hea', 'Georgia/E08869.mat', 'Georgia/E08870.hea', 'Georgia/E08870.mat', 'Georgia/E08871.hea', 'Georgia/E08871.mat', 'Georgia/E08872.hea', 'Georgia/E08872.mat', 'Georgia/E08873.hea', 'Georgia/E08873.mat', 'Georgia/E08874.hea', 'Georgia/E08874.mat', 'Georgia/E08875.hea', 'Georgia/E08875.mat', 'Georgia/E08876.hea', 'Georgia/E08876.mat', 'Georgia/E08877.hea', 'Georgia/E08877.mat', 'Georgia/E08878.hea', 'Georgia/E08878.mat', 'Georgia/E08879.hea', 'Georgia/E08879.mat', 'Georgia/E08880.hea', 'Georgia/E08880.mat', 'Georgia/E08881.hea', 'Georgia/E08881.mat', 'Georgia/E08882.hea', 'Georgia/E08882.mat', 'Georgia/E08883.hea', 'Georgia/E08883.mat', 'Georgia/E08884.hea', 'Georgia/E08884.mat', 'Georgia/E08885.hea', 'Georgia/E08885.mat', 'Georgia/E08886.hea', 'Georgia/E08886.mat', 'Georgia/E08887.hea', 'Georgia/E08887.mat', 'Georgia/E08888.hea', 'Georgia/E08888.mat', 'Georgia/E08889.hea', 'Georgia/E08889.mat', 'Georgia/E08890.hea', 'Georgia/E08890.mat', 'Georgia/E08891.hea', 'Georgia/E08891.mat', 'Georgia/E08892.hea', 'Georgia/E08892.mat', 'Georgia/E08893.hea', 'Georgia/E08893.mat', 'Georgia/E08894.hea', 'Georgia/E08894.mat', 'Georgia/E08895.hea', 'Georgia/E08895.mat', 'Georgia/E08896.hea', 'Georgia/E08896.mat', 'Georgia/E08897.hea', 'Georgia/E08897.mat', 'Georgia/E08898.hea', 'Georgia/E08898.mat', 'Georgia/E08899.hea', 'Georgia/E08899.mat', 'Georgia/E08900.hea', 'Georgia/E08900.mat', 'Georgia/E08901.hea', 'Georgia/E08901.mat', 'Georgia/E08902.hea', 'Georgia/E08902.mat', 'Georgia/E08903.hea', 'Georgia/E08903.mat', 'Georgia/E08904.hea', 'Georgia/E08904.mat', 'Georgia/E08905.hea', 'Georgia/E08905.mat', 'Georgia/E08906.hea', 'Georgia/E08906.mat', 'Georgia/E08907.hea', 'Georgia/E08907.mat', 'Georgia/E08908.hea', 'Georgia/E08908.mat', 'Georgia/E08909.hea', 'Georgia/E08909.mat', 'Georgia/E08910.hea', 'Georgia/E08910.mat', 'Georgia/E08911.hea', 'Georgia/E08911.mat', 'Georgia/E08912.hea', 'Georgia/E08912.mat', 'Georgia/E08913.hea', 'Georgia/E08913.mat', 'Georgia/E08914.hea', 'Georgia/E08914.mat', 'Georgia/E08915.hea', 'Georgia/E08915.mat', 'Georgia/E08916.hea', 'Georgia/E08916.mat', 'Georgia/E08917.hea', 'Georgia/E08917.mat', 'Georgia/E08918.hea', 'Georgia/E08918.mat', 'Georgia/E08919.hea', 'Georgia/E08919.mat', 'Georgia/E08920.hea', 'Georgia/E08920.mat', 'Georgia/E08921.hea', 'Georgia/E08921.mat', 'Georgia/E08922.hea', 'Georgia/E08922.mat', 'Georgia/E08923.hea', 'Georgia/E08923.mat', 'Georgia/E08924.hea', 'Georgia/E08924.mat', 'Georgia/E08925.hea', 'Georgia/E08925.mat', 'Georgia/E08926.hea', 'Georgia/E08926.mat', 'Georgia/E08927.hea', 'Georgia/E08927.mat', 'Georgia/E08928.hea', 'Georgia/E08928.mat', 'Georgia/E08929.hea', 'Georgia/E08929.mat', 'Georgia/E08930.hea', 'Georgia/E08930.mat', 'Georgia/E08931.hea', 'Georgia/E08931.mat', 'Georgia/E08932.hea', 'Georgia/E08932.mat', 'Georgia/E08933.hea', 'Georgia/E08933.mat', 'Georgia/E08934.hea', 'Georgia/E08934.mat', 'Georgia/E08935.hea', 'Georgia/E08935.mat', 'Georgia/E08936.hea', 'Georgia/E08936.mat', 'Georgia/E08937.hea', 'Georgia/E08937.mat', 'Georgia/E08938.hea', 'Georgia/E08938.mat', 'Georgia/E08939.hea', 'Georgia/E08939.mat', 'Georgia/E08940.hea', 'Georgia/E08940.mat', 'Georgia/E08941.hea', 'Georgia/E08941.mat', 'Georgia/E08942.hea', 'Georgia/E08942.mat', 'Georgia/E08943.hea', 'Georgia/E08943.mat', 'Georgia/E08944.hea', 'Georgia/E08944.mat', 'Georgia/E08945.hea', 'Georgia/E08945.mat', 'Georgia/E08946.hea', 'Georgia/E08946.mat', 'Georgia/E08947.hea', 'Georgia/E08947.mat', 'Georgia/E08948.hea', 'Georgia/E08948.mat', 'Georgia/E08949.hea', 'Georgia/E08949.mat', 'Georgia/E08950.hea', 'Georgia/E08950.mat', 'Georgia/E08951.hea', 'Georgia/E08951.mat', 'Georgia/E08952.hea', 'Georgia/E08952.mat', 'Georgia/E08953.hea', 'Georgia/E08953.mat', 'Georgia/E08954.hea', 'Georgia/E08954.mat', 'Georgia/E08955.hea', 'Georgia/E08955.mat', 'Georgia/E08956.hea', 'Georgia/E08956.mat', 'Georgia/E08957.hea', 'Georgia/E08957.mat', 'Georgia/E08958.hea', 'Georgia/E08958.mat', 'Georgia/E08959.hea', 'Georgia/E08959.mat', 'Georgia/E08960.hea', 'Georgia/E08960.mat', 'Georgia/E08961.hea', 'Georgia/E08961.mat', 'Georgia/E08962.hea', 'Georgia/E08962.mat', 'Georgia/E08963.hea', 'Georgia/E08963.mat', 'Georgia/E08964.hea', 'Georgia/E08964.mat', 'Georgia/E08965.hea', 'Georgia/E08965.mat', 'Georgia/E08966.hea', 'Georgia/E08966.mat', 'Georgia/E08967.hea', 'Georgia/E08967.mat', 'Georgia/E08968.hea', 'Georgia/E08968.mat', 'Georgia/E08969.hea', 'Georgia/E08969.mat', 'Georgia/E08970.hea', 'Georgia/E08970.mat', 'Georgia/E08971.hea', 'Georgia/E08971.mat', 'Georgia/E08972.hea', 'Georgia/E08972.mat', 'Georgia/E08973.hea', 'Georgia/E08973.mat', 'Georgia/E08974.hea', 'Georgia/E08974.mat', 'Georgia/E08975.hea', 'Georgia/E08975.mat', 'Georgia/E08976.hea', 'Georgia/E08976.mat', 'Georgia/E08977.hea', 'Georgia/E08977.mat', 'Georgia/E08978.hea', 'Georgia/E08978.mat', 'Georgia/E08979.hea', 'Georgia/E08979.mat', 'Georgia/E08980.hea', 'Georgia/E08980.mat', 'Georgia/E08981.hea', 'Georgia/E08981.mat', 'Georgia/E08982.hea', 'Georgia/E08982.mat', 'Georgia/E08983.hea', 'Georgia/E08983.mat', 'Georgia/E08984.hea', 'Georgia/E08984.mat', 'Georgia/E08985.hea', 'Georgia/E08985.mat', 'Georgia/E08986.hea', 'Georgia/E08986.mat', 'Georgia/E08987.hea', 'Georgia/E08987.mat', 'Georgia/E08988.hea', 'Georgia/E08988.mat', 'Georgia/E08989.hea', 'Georgia/E08989.mat', 'Georgia/E08990.hea', 'Georgia/E08990.mat', 'Georgia/E08991.hea', 'Georgia/E08991.mat', 'Georgia/E08992.hea', 'Georgia/E08992.mat', 'Georgia/E08993.hea', 'Georgia/E08993.mat', 'Georgia/E08994.hea', 'Georgia/E08994.mat', 'Georgia/E08995.hea', 'Georgia/E08995.mat', 'Georgia/E08996.hea', 'Georgia/E08996.mat', 'Georgia/E08997.hea', 'Georgia/E08997.mat', 'Georgia/E08998.hea', 'Georgia/E08998.mat', 'Georgia/E08999.hea', 'Georgia/E08999.mat', 'Georgia/E09000.hea', 'Georgia/E09000.mat', 'Georgia/E09001.hea', 'Georgia/E09001.mat', 'Georgia/E09002.hea', 'Georgia/E09002.mat', 'Georgia/E09003.hea', 'Georgia/E09003.mat', 'Georgia/E09004.hea', 'Georgia/E09004.mat', 'Georgia/E09005.hea', 'Georgia/E09005.mat', 'Georgia/E09006.hea', 'Georgia/E09006.mat', 'Georgia/E09007.hea', 'Georgia/E09007.mat', 'Georgia/E09008.hea', 'Georgia/E09008.mat', 'Georgia/E09009.hea', 'Georgia/E09009.mat', 'Georgia/E09010.hea', 'Georgia/E09010.mat', 'Georgia/E09011.hea', 'Georgia/E09011.mat', 'Georgia/E09012.hea', 'Georgia/E09012.mat', 'Georgia/E09013.hea', 'Georgia/E09013.mat', 'Georgia/E09014.hea', 'Georgia/E09014.mat', 'Georgia/E09015.hea', 'Georgia/E09015.mat', 'Georgia/E09016.hea', 'Georgia/E09016.mat', 'Georgia/E09017.hea', 'Georgia/E09017.mat', 'Georgia/E09018.hea', 'Georgia/E09018.mat', 'Georgia/E09019.hea', 'Georgia/E09019.mat', 'Georgia/E09020.hea', 'Georgia/E09020.mat', 'Georgia/E09021.hea', 'Georgia/E09021.mat', 'Georgia/E09022.hea', 'Georgia/E09022.mat', 'Georgia/E09023.hea', 'Georgia/E09023.mat', 'Georgia/E09024.hea', 'Georgia/E09024.mat', 'Georgia/E09025.hea', 'Georgia/E09025.mat', 'Georgia/E09026.hea', 'Georgia/E09026.mat', 'Georgia/E09027.hea', 'Georgia/E09027.mat', 'Georgia/E09028.hea', 'Georgia/E09028.mat', 'Georgia/E09029.hea', 'Georgia/E09029.mat', 'Georgia/E09030.hea', 'Georgia/E09030.mat', 'Georgia/E09031.hea', 'Georgia/E09031.mat', 'Georgia/E09032.hea', 'Georgia/E09032.mat', 'Georgia/E09033.hea', 'Georgia/E09033.mat', 'Georgia/E09034.hea', 'Georgia/E09034.mat', 'Georgia/E09035.hea', 'Georgia/E09035.mat', 'Georgia/E09036.hea', 'Georgia/E09036.mat', 'Georgia/E09037.hea', 'Georgia/E09037.mat', 'Georgia/E09038.hea', 'Georgia/E09038.mat', 'Georgia/E09039.hea', 'Georgia/E09039.mat', 'Georgia/E09040.hea', 'Georgia/E09040.mat', 'Georgia/E09041.hea', 'Georgia/E09041.mat', 'Georgia/E09042.hea', 'Georgia/E09042.mat', 'Georgia/E09043.hea', 'Georgia/E09043.mat', 'Georgia/E09044.hea', 'Georgia/E09044.mat', 'Georgia/E09045.hea', 'Georgia/E09045.mat', 'Georgia/E09046.hea', 'Georgia/E09046.mat', 'Georgia/E09047.hea', 'Georgia/E09047.mat', 'Georgia/E09048.hea', 'Georgia/E09048.mat', 'Georgia/E09049.hea', 'Georgia/E09049.mat', 'Georgia/E09050.hea', 'Georgia/E09050.mat', 'Georgia/E09051.hea', 'Georgia/E09051.mat', 'Georgia/E09052.hea', 'Georgia/E09052.mat', 'Georgia/E09053.hea', 'Georgia/E09053.mat', 'Georgia/E09054.hea', 'Georgia/E09054.mat', 'Georgia/E09055.hea', 'Georgia/E09055.mat', 'Georgia/E09056.hea', 'Georgia/E09056.mat', 'Georgia/E09057.hea', 'Georgia/E09057.mat', 'Georgia/E09058.hea', 'Georgia/E09058.mat', 'Georgia/E09059.hea', 'Georgia/E09059.mat', 'Georgia/E09060.hea', 'Georgia/E09060.mat', 'Georgia/E09061.hea', 'Georgia/E09061.mat', 'Georgia/E09062.hea', 'Georgia/E09062.mat', 'Georgia/E09063.hea', 'Georgia/E09063.mat', 'Georgia/E09064.hea', 'Georgia/E09064.mat', 'Georgia/E09065.hea', 'Georgia/E09065.mat', 'Georgia/E09066.hea', 'Georgia/E09066.mat', 'Georgia/E09067.hea', 'Georgia/E09067.mat', 'Georgia/E09068.hea', 'Georgia/E09068.mat', 'Georgia/E09069.hea', 'Georgia/E09069.mat', 'Georgia/E09070.hea', 'Georgia/E09070.mat', 'Georgia/E09071.hea', 'Georgia/E09071.mat', 'Georgia/E09072.hea', 'Georgia/E09072.mat', 'Georgia/E09073.hea', 'Georgia/E09073.mat', 'Georgia/E09074.hea', 'Georgia/E09074.mat', 'Georgia/E09075.hea', 'Georgia/E09075.mat', 'Georgia/E09076.hea', 'Georgia/E09076.mat', 'Georgia/E09077.hea', 'Georgia/E09077.mat', 'Georgia/E09078.hea', 'Georgia/E09078.mat', 'Georgia/E09079.hea', 'Georgia/E09079.mat', 'Georgia/E09080.hea', 'Georgia/E09080.mat', 'Georgia/E09081.hea', 'Georgia/E09081.mat', 'Georgia/E09082.hea', 'Georgia/E09082.mat', 'Georgia/E09083.hea', 'Georgia/E09083.mat', 'Georgia/E09084.hea', 'Georgia/E09084.mat', 'Georgia/E09085.hea', 'Georgia/E09085.mat', 'Georgia/E09086.hea', 'Georgia/E09086.mat', 'Georgia/E09087.hea', 'Georgia/E09087.mat', 'Georgia/E09088.hea', 'Georgia/E09088.mat', 'Georgia/E09089.hea', 'Georgia/E09089.mat', 'Georgia/E09090.hea', 'Georgia/E09090.mat', 'Georgia/E09091.hea', 'Georgia/E09091.mat', 'Georgia/E09092.hea', 'Georgia/E09092.mat', 'Georgia/E09093.hea', 'Georgia/E09093.mat', 'Georgia/E09094.hea', 'Georgia/E09094.mat', 'Georgia/E09095.hea', 'Georgia/E09095.mat', 'Georgia/E09096.hea', 'Georgia/E09096.mat', 'Georgia/E09097.hea', 'Georgia/E09097.mat', 'Georgia/E09098.hea', 'Georgia/E09098.mat', 'Georgia/E09099.hea', 'Georgia/E09099.mat', 'Georgia/E09100.hea', 'Georgia/E09100.mat', 'Georgia/E09101.hea', 'Georgia/E09101.mat', 'Georgia/E09102.hea', 'Georgia/E09102.mat', 'Georgia/E09103.hea', 'Georgia/E09103.mat', 'Georgia/E09104.hea', 'Georgia/E09104.mat', 'Georgia/E09105.hea', 'Georgia/E09105.mat', 'Georgia/E09106.hea', 'Georgia/E09106.mat', 'Georgia/E09107.hea', 'Georgia/E09107.mat', 'Georgia/E09108.hea', 'Georgia/E09108.mat', 'Georgia/E09109.hea', 'Georgia/E09109.mat', 'Georgia/E09110.hea', 'Georgia/E09110.mat', 'Georgia/E09111.hea', 'Georgia/E09111.mat', 'Georgia/E09112.hea', 'Georgia/E09112.mat', 'Georgia/E09113.hea', 'Georgia/E09113.mat', 'Georgia/E09114.hea', 'Georgia/E09114.mat', 'Georgia/E09115.hea', 'Georgia/E09115.mat', 'Georgia/E09116.hea', 'Georgia/E09116.mat', 'Georgia/E09117.hea', 'Georgia/E09117.mat', 'Georgia/E09118.hea', 'Georgia/E09118.mat', 'Georgia/E09119.hea', 'Georgia/E09119.mat', 'Georgia/E09120.hea', 'Georgia/E09120.mat', 'Georgia/E09121.hea', 'Georgia/E09121.mat', 'Georgia/E09122.hea', 'Georgia/E09122.mat', 'Georgia/E09123.hea', 'Georgia/E09123.mat', 'Georgia/E09124.hea', 'Georgia/E09124.mat', 'Georgia/E09125.hea', 'Georgia/E09125.mat', 'Georgia/E09126.hea', 'Georgia/E09126.mat', 'Georgia/E09127.hea', 'Georgia/E09127.mat', 'Georgia/E09128.hea', 'Georgia/E09128.mat', 'Georgia/E09129.hea', 'Georgia/E09129.mat', 'Georgia/E09130.hea', 'Georgia/E09130.mat', 'Georgia/E09131.hea', 'Georgia/E09131.mat', 'Georgia/E09132.hea', 'Georgia/E09132.mat', 'Georgia/E09133.hea', 'Georgia/E09133.mat', 'Georgia/E09134.hea', 'Georgia/E09134.mat', 'Georgia/E09135.hea', 'Georgia/E09135.mat', 'Georgia/E09136.hea', 'Georgia/E09136.mat', 'Georgia/E09137.hea', 'Georgia/E09137.mat', 'Georgia/E09138.hea', 'Georgia/E09138.mat', 'Georgia/E09139.hea', 'Georgia/E09139.mat', 'Georgia/E09140.hea', 'Georgia/E09140.mat', 'Georgia/E09141.hea', 'Georgia/E09141.mat', 'Georgia/E09142.hea', 'Georgia/E09142.mat', 'Georgia/E09143.hea', 'Georgia/E09143.mat', 'Georgia/E09144.hea', 'Georgia/E09144.mat', 'Georgia/E09145.hea', 'Georgia/E09145.mat', 'Georgia/E09146.hea', 'Georgia/E09146.mat', 'Georgia/E09147.hea', 'Georgia/E09147.mat', 'Georgia/E09148.hea', 'Georgia/E09148.mat', 'Georgia/E09149.hea', 'Georgia/E09149.mat', 'Georgia/E09150.hea', 'Georgia/E09150.mat', 'Georgia/E09151.hea', 'Georgia/E09151.mat', 'Georgia/E09152.hea', 'Georgia/E09152.mat', 'Georgia/E09153.hea', 'Georgia/E09153.mat', 'Georgia/E09154.hea', 'Georgia/E09154.mat', 'Georgia/E09155.hea', 'Georgia/E09155.mat', 'Georgia/E09156.hea', 'Georgia/E09156.mat', 'Georgia/E09157.hea', 'Georgia/E09157.mat', 'Georgia/E09158.hea', 'Georgia/E09158.mat', 'Georgia/E09159.hea', 'Georgia/E09159.mat', 'Georgia/E09160.hea', 'Georgia/E09160.mat', 'Georgia/E09161.hea', 'Georgia/E09161.mat', 'Georgia/E09162.hea', 'Georgia/E09162.mat', 'Georgia/E09163.hea', 'Georgia/E09163.mat', 'Georgia/E09164.hea', 'Georgia/E09164.mat', 'Georgia/E09165.hea', 'Georgia/E09165.mat', 'Georgia/E09166.hea', 'Georgia/E09166.mat', 'Georgia/E09167.hea', 'Georgia/E09167.mat', 'Georgia/E09168.hea', 'Georgia/E09168.mat', 'Georgia/E09169.hea', 'Georgia/E09169.mat', 'Georgia/E09170.hea', 'Georgia/E09170.mat', 'Georgia/E09171.hea', 'Georgia/E09171.mat', 'Georgia/E09172.hea', 'Georgia/E09172.mat', 'Georgia/E09173.hea', 'Georgia/E09173.mat', 'Georgia/E09174.hea', 'Georgia/E09174.mat', 'Georgia/E09175.hea', 'Georgia/E09175.mat', 'Georgia/E09176.hea', 'Georgia/E09176.mat', 'Georgia/E09177.hea', 'Georgia/E09177.mat', 'Georgia/E09178.hea', 'Georgia/E09178.mat', 'Georgia/E09179.hea', 'Georgia/E09179.mat', 'Georgia/E09180.hea', 'Georgia/E09180.mat', 'Georgia/E09181.hea', 'Georgia/E09181.mat', 'Georgia/E09182.hea', 'Georgia/E09182.mat', 'Georgia/E09183.hea', 'Georgia/E09183.mat', 'Georgia/E09184.hea', 'Georgia/E09184.mat', 'Georgia/E09185.hea', 'Georgia/E09185.mat', 'Georgia/E09186.hea', 'Georgia/E09186.mat', 'Georgia/E09187.hea', 'Georgia/E09187.mat', 'Georgia/E09188.hea', 'Georgia/E09188.mat', 'Georgia/E09189.hea', 'Georgia/E09189.mat', 'Georgia/E09190.hea', 'Georgia/E09190.mat', 'Georgia/E09191.hea', 'Georgia/E09191.mat', 'Georgia/E09192.hea', 'Georgia/E09192.mat', 'Georgia/E09193.hea', 'Georgia/E09193.mat', 'Georgia/E09194.hea', 'Georgia/E09194.mat', 'Georgia/E09195.hea', 'Georgia/E09195.mat', 'Georgia/E09196.hea', 'Georgia/E09196.mat', 'Georgia/E09197.hea', 'Georgia/E09197.mat', 'Georgia/E09198.hea', 'Georgia/E09198.mat', 'Georgia/E09199.hea', 'Georgia/E09199.mat', 'Georgia/E09200.hea', 'Georgia/E09200.mat', 'Georgia/E09201.hea', 'Georgia/E09201.mat', 'Georgia/E09202.hea', 'Georgia/E09202.mat', 'Georgia/E09203.hea', 'Georgia/E09203.mat', 'Georgia/E09204.hea', 'Georgia/E09204.mat', 'Georgia/E09205.hea', 'Georgia/E09205.mat', 'Georgia/E09206.hea', 'Georgia/E09206.mat', 'Georgia/E09207.hea', 'Georgia/E09207.mat', 'Georgia/E09208.hea', 'Georgia/E09208.mat', 'Georgia/E09209.hea', 'Georgia/E09209.mat', 'Georgia/E09210.hea', 'Georgia/E09210.mat', 'Georgia/E09211.hea', 'Georgia/E09211.mat', 'Georgia/E09212.hea', 'Georgia/E09212.mat', 'Georgia/E09213.hea', 'Georgia/E09213.mat', 'Georgia/E09214.hea', 'Georgia/E09214.mat', 'Georgia/E09215.hea', 'Georgia/E09215.mat', 'Georgia/E09216.hea', 'Georgia/E09216.mat', 'Georgia/E09217.hea', 'Georgia/E09217.mat', 'Georgia/E09218.hea', 'Georgia/E09218.mat', 'Georgia/E09219.hea', 'Georgia/E09219.mat', 'Georgia/E09220.hea', 'Georgia/E09220.mat', 'Georgia/E09221.hea', 'Georgia/E09221.mat', 'Georgia/E09222.hea', 'Georgia/E09222.mat', 'Georgia/E09223.hea', 'Georgia/E09223.mat', 'Georgia/E09224.hea', 'Georgia/E09224.mat', 'Georgia/E09225.hea', 'Georgia/E09225.mat', 'Georgia/E09226.hea', 'Georgia/E09226.mat', 'Georgia/E09227.hea', 'Georgia/E09227.mat', 'Georgia/E09228.hea', 'Georgia/E09228.mat', 'Georgia/E09229.hea', 'Georgia/E09229.mat', 'Georgia/E09230.hea', 'Georgia/E09230.mat', 'Georgia/E09231.hea', 'Georgia/E09231.mat', 'Georgia/E09232.hea', 'Georgia/E09232.mat', 'Georgia/E09233.hea', 'Georgia/E09233.mat', 'Georgia/E09234.hea', 'Georgia/E09234.mat', 'Georgia/E09235.hea', 'Georgia/E09235.mat', 'Georgia/E09236.hea', 'Georgia/E09236.mat', 'Georgia/E09237.hea', 'Georgia/E09237.mat', 'Georgia/E09238.hea', 'Georgia/E09238.mat', 'Georgia/E09239.hea', 'Georgia/E09239.mat', 'Georgia/E09240.hea', 'Georgia/E09240.mat', 'Georgia/E09241.hea', 'Georgia/E09241.mat', 'Georgia/E09242.hea', 'Georgia/E09242.mat', 'Georgia/E09243.hea', 'Georgia/E09243.mat', 'Georgia/E09244.hea', 'Georgia/E09244.mat', 'Georgia/E09245.hea', 'Georgia/E09245.mat', 'Georgia/E09246.hea', 'Georgia/E09246.mat', 'Georgia/E09247.hea', 'Georgia/E09247.mat', 'Georgia/E09248.hea', 'Georgia/E09248.mat', 'Georgia/E09249.hea', 'Georgia/E09249.mat', 'Georgia/E09250.hea', 'Georgia/E09250.mat', 'Georgia/E09251.hea', 'Georgia/E09251.mat', 'Georgia/E09252.hea', 'Georgia/E09252.mat', 'Georgia/E09253.hea', 'Georgia/E09253.mat', 'Georgia/E09254.hea', 'Georgia/E09254.mat', 'Georgia/E09255.hea', 'Georgia/E09255.mat', 'Georgia/E09256.hea', 'Georgia/E09256.mat', 'Georgia/E09257.hea', 'Georgia/E09257.mat', 'Georgia/E09258.hea', 'Georgia/E09258.mat', 'Georgia/E09259.hea', 'Georgia/E09259.mat', 'Georgia/E09260.hea', 'Georgia/E09260.mat', 'Georgia/E09261.hea', 'Georgia/E09261.mat', 'Georgia/E09262.hea', 'Georgia/E09262.mat', 'Georgia/E09263.hea', 'Georgia/E09263.mat', 'Georgia/E09264.hea', 'Georgia/E09264.mat', 'Georgia/E09265.hea', 'Georgia/E09265.mat', 'Georgia/E09266.hea', 'Georgia/E09266.mat', 'Georgia/E09267.hea', 'Georgia/E09267.mat', 'Georgia/E09268.hea', 'Georgia/E09268.mat', 'Georgia/E09269.hea', 'Georgia/E09269.mat', 'Georgia/E09270.hea', 'Georgia/E09270.mat', 'Georgia/E09271.hea', 'Georgia/E09271.mat', 'Georgia/E09272.hea', 'Georgia/E09272.mat', 'Georgia/E09273.hea', 'Georgia/E09273.mat', 'Georgia/E09274.hea', 'Georgia/E09274.mat', 'Georgia/E09275.hea', 'Georgia/E09275.mat', 'Georgia/E09276.hea', 'Georgia/E09276.mat', 'Georgia/E09277.hea', 'Georgia/E09277.mat', 'Georgia/E09278.hea', 'Georgia/E09278.mat', 'Georgia/E09279.hea', 'Georgia/E09279.mat', 'Georgia/E09280.hea', 'Georgia/E09280.mat', 'Georgia/E09281.hea', 'Georgia/E09281.mat', 'Georgia/E09282.hea', 'Georgia/E09282.mat', 'Georgia/E09283.hea', 'Georgia/E09283.mat', 'Georgia/E09284.hea', 'Georgia/E09284.mat', 'Georgia/E09285.hea', 'Georgia/E09285.mat', 'Georgia/E09286.hea', 'Georgia/E09286.mat', 'Georgia/E09287.hea', 'Georgia/E09287.mat', 'Georgia/E09288.hea', 'Georgia/E09288.mat', 'Georgia/E09289.hea', 'Georgia/E09289.mat', 'Georgia/E09290.hea', 'Georgia/E09290.mat', 'Georgia/E09291.hea', 'Georgia/E09291.mat', 'Georgia/E09292.hea', 'Georgia/E09292.mat', 'Georgia/E09293.hea', 'Georgia/E09293.mat', 'Georgia/E09294.hea', 'Georgia/E09294.mat', 'Georgia/E09295.hea', 'Georgia/E09295.mat', 'Georgia/E09296.hea', 'Georgia/E09296.mat', 'Georgia/E09297.hea', 'Georgia/E09297.mat', 'Georgia/E09298.hea', 'Georgia/E09298.mat', 'Georgia/E09299.hea', 'Georgia/E09299.mat', 'Georgia/E09300.hea', 'Georgia/E09300.mat', 'Georgia/E09301.hea', 'Georgia/E09301.mat', 'Georgia/E09302.hea', 'Georgia/E09302.mat', 'Georgia/E09303.hea', 'Georgia/E09303.mat', 'Georgia/E09304.hea', 'Georgia/E09304.mat', 'Georgia/E09305.hea', 'Georgia/E09305.mat', 'Georgia/E09306.hea', 'Georgia/E09306.mat', 'Georgia/E09307.hea', 'Georgia/E09307.mat', 'Georgia/E09308.hea', 'Georgia/E09308.mat', 'Georgia/E09309.hea', 'Georgia/E09309.mat', 'Georgia/E09310.hea', 'Georgia/E09310.mat', 'Georgia/E09311.hea', 'Georgia/E09311.mat', 'Georgia/E09312.hea', 'Georgia/E09312.mat', 'Georgia/E09313.hea', 'Georgia/E09313.mat', 'Georgia/E09314.hea', 'Georgia/E09314.mat', 'Georgia/E09315.hea', 'Georgia/E09315.mat', 'Georgia/E09316.hea', 'Georgia/E09316.mat', 'Georgia/E09317.hea', 'Georgia/E09317.mat', 'Georgia/E09318.hea', 'Georgia/E09318.mat', 'Georgia/E09319.hea', 'Georgia/E09319.mat', 'Georgia/E09320.hea', 'Georgia/E09320.mat', 'Georgia/E09321.hea', 'Georgia/E09321.mat', 'Georgia/E09322.hea', 'Georgia/E09322.mat', 'Georgia/E09323.hea', 'Georgia/E09323.mat', 'Georgia/E09324.hea', 'Georgia/E09324.mat', 'Georgia/E09325.hea', 'Georgia/E09325.mat', 'Georgia/E09326.hea', 'Georgia/E09326.mat', 'Georgia/E09327.hea', 'Georgia/E09327.mat', 'Georgia/E09328.hea', 'Georgia/E09328.mat', 'Georgia/E09329.hea', 'Georgia/E09329.mat', 'Georgia/E09330.hea', 'Georgia/E09330.mat', 'Georgia/E09331.hea', 'Georgia/E09331.mat', 'Georgia/E09332.hea', 'Georgia/E09332.mat', 'Georgia/E09333.hea', 'Georgia/E09333.mat', 'Georgia/E09334.hea', 'Georgia/E09334.mat', 'Georgia/E09335.hea', 'Georgia/E09335.mat', 'Georgia/E09336.hea', 'Georgia/E09336.mat', 'Georgia/E09337.hea', 'Georgia/E09337.mat', 'Georgia/E09338.hea', 'Georgia/E09338.mat', 'Georgia/E09339.hea', 'Georgia/E09339.mat', 'Georgia/E09340.hea', 'Georgia/E09340.mat', 'Georgia/E09341.hea', 'Georgia/E09341.mat', 'Georgia/E09342.hea', 'Georgia/E09342.mat', 'Georgia/E09343.hea', 'Georgia/E09343.mat', 'Georgia/E09344.hea', 'Georgia/E09344.mat', 'Georgia/E09345.hea', 'Georgia/E09345.mat', 'Georgia/E09346.hea', 'Georgia/E09346.mat', 'Georgia/E09347.hea', 'Georgia/E09347.mat', 'Georgia/E09348.hea', 'Georgia/E09348.mat', 'Georgia/E09349.hea', 'Georgia/E09349.mat', 'Georgia/E09350.hea', 'Georgia/E09350.mat', 'Georgia/E09351.hea', 'Georgia/E09351.mat', 'Georgia/E09352.hea', 'Georgia/E09352.mat', 'Georgia/E09353.hea', 'Georgia/E09353.mat', 'Georgia/E09354.hea', 'Georgia/E09354.mat', 'Georgia/E09355.hea', 'Georgia/E09355.mat', 'Georgia/E09356.hea', 'Georgia/E09356.mat', 'Georgia/E09357.hea', 'Georgia/E09357.mat', 'Georgia/E09358.hea', 'Georgia/E09358.mat', 'Georgia/E09359.hea', 'Georgia/E09359.mat', 'Georgia/E09360.hea', 'Georgia/E09360.mat', 'Georgia/E09361.hea', 'Georgia/E09361.mat', 'Georgia/E09362.hea', 'Georgia/E09362.mat', 'Georgia/E09363.hea', 'Georgia/E09363.mat', 'Georgia/E09364.hea', 'Georgia/E09364.mat', 'Georgia/E09365.hea', 'Georgia/E09365.mat', 'Georgia/E09366.hea', 'Georgia/E09366.mat', 'Georgia/E09367.hea', 'Georgia/E09367.mat', 'Georgia/E09368.hea', 'Georgia/E09368.mat', 'Georgia/E09369.hea', 'Georgia/E09369.mat', 'Georgia/E09370.hea', 'Georgia/E09370.mat', 'Georgia/E09371.hea', 'Georgia/E09371.mat', 'Georgia/E09372.hea', 'Georgia/E09372.mat', 'Georgia/E09373.hea', 'Georgia/E09373.mat', 'Georgia/E09374.hea', 'Georgia/E09374.mat', 'Georgia/E09375.hea', 'Georgia/E09375.mat', 'Georgia/E09376.hea', 'Georgia/E09376.mat', 'Georgia/E09377.hea', 'Georgia/E09377.mat', 'Georgia/E09378.hea', 'Georgia/E09378.mat', 'Georgia/E09379.hea', 'Georgia/E09379.mat', 'Georgia/E09380.hea', 'Georgia/E09380.mat', 'Georgia/E09381.hea', 'Georgia/E09381.mat', 'Georgia/E09382.hea', 'Georgia/E09382.mat', 'Georgia/E09383.hea', 'Georgia/E09383.mat', 'Georgia/E09384.hea', 'Georgia/E09384.mat', 'Georgia/E09385.hea', 'Georgia/E09385.mat', 'Georgia/E09386.hea', 'Georgia/E09386.mat', 'Georgia/E09387.hea', 'Georgia/E09387.mat', 'Georgia/E09388.hea', 'Georgia/E09388.mat', 'Georgia/E09389.hea', 'Georgia/E09389.mat', 'Georgia/E09390.hea', 'Georgia/E09390.mat', 'Georgia/E09391.hea', 'Georgia/E09391.mat', 'Georgia/E09392.hea', 'Georgia/E09392.mat', 'Georgia/E09393.hea', 'Georgia/E09393.mat', 'Georgia/E09394.hea', 'Georgia/E09394.mat', 'Georgia/E09395.hea', 'Georgia/E09395.mat', 'Georgia/E09396.hea', 'Georgia/E09396.mat', 'Georgia/E09397.hea', 'Georgia/E09397.mat', 'Georgia/E09398.hea', 'Georgia/E09398.mat', 'Georgia/E09399.hea', 'Georgia/E09399.mat', 'Georgia/E09400.hea', 'Georgia/E09400.mat', 'Georgia/E09401.hea', 'Georgia/E09401.mat', 'Georgia/E09402.hea', 'Georgia/E09402.mat', 'Georgia/E09403.hea', 'Georgia/E09403.mat', 'Georgia/E09404.hea', 'Georgia/E09404.mat', 'Georgia/E09405.hea', 'Georgia/E09405.mat', 'Georgia/E09406.hea', 'Georgia/E09406.mat', 'Georgia/E09407.hea', 'Georgia/E09407.mat', 'Georgia/E09408.hea', 'Georgia/E09408.mat', 'Georgia/E09409.hea', 'Georgia/E09409.mat', 'Georgia/E09410.hea', 'Georgia/E09410.mat', 'Georgia/E09411.hea', 'Georgia/E09411.mat', 'Georgia/E09412.hea', 'Georgia/E09412.mat', 'Georgia/E09413.hea', 'Georgia/E09413.mat', 'Georgia/E09414.hea', 'Georgia/E09414.mat', 'Georgia/E09415.hea', 'Georgia/E09415.mat', 'Georgia/E09416.hea', 'Georgia/E09416.mat', 'Georgia/E09417.hea', 'Georgia/E09417.mat', 'Georgia/E09418.hea', 'Georgia/E09418.mat', 'Georgia/E09419.hea', 'Georgia/E09419.mat', 'Georgia/E09420.hea', 'Georgia/E09420.mat', 'Georgia/E09421.hea', 'Georgia/E09421.mat', 'Georgia/E09422.hea', 'Georgia/E09422.mat', 'Georgia/E09423.hea', 'Georgia/E09423.mat', 'Georgia/E09424.hea', 'Georgia/E09424.mat', 'Georgia/E09425.hea', 'Georgia/E09425.mat', 'Georgia/E09426.hea', 'Georgia/E09426.mat', 'Georgia/E09427.hea', 'Georgia/E09427.mat', 'Georgia/E09428.hea', 'Georgia/E09428.mat', 'Georgia/E09429.hea', 'Georgia/E09429.mat', 'Georgia/E09430.hea', 'Georgia/E09430.mat', 'Georgia/E09431.hea', 'Georgia/E09431.mat', 'Georgia/E09432.hea', 'Georgia/E09432.mat', 'Georgia/E09433.hea', 'Georgia/E09433.mat', 'Georgia/E09434.hea', 'Georgia/E09434.mat', 'Georgia/E09435.hea', 'Georgia/E09435.mat', 'Georgia/E09436.hea', 'Georgia/E09436.mat', 'Georgia/E09437.hea', 'Georgia/E09437.mat', 'Georgia/E09438.hea', 'Georgia/E09438.mat', 'Georgia/E09439.hea', 'Georgia/E09439.mat', 'Georgia/E09440.hea', 'Georgia/E09440.mat', 'Georgia/E09441.hea', 'Georgia/E09441.mat', 'Georgia/E09442.hea', 'Georgia/E09442.mat', 'Georgia/E09443.hea', 'Georgia/E09443.mat', 'Georgia/E09444.hea', 'Georgia/E09444.mat', 'Georgia/E09445.hea', 'Georgia/E09445.mat', 'Georgia/E09446.hea', 'Georgia/E09446.mat', 'Georgia/E09447.hea', 'Georgia/E09447.mat', 'Georgia/E09448.hea', 'Georgia/E09448.mat', 'Georgia/E09449.hea', 'Georgia/E09449.mat', 'Georgia/E09450.hea', 'Georgia/E09450.mat', 'Georgia/E09451.hea', 'Georgia/E09451.mat', 'Georgia/E09452.hea', 'Georgia/E09452.mat', 'Georgia/E09453.hea', 'Georgia/E09453.mat', 'Georgia/E09454.hea', 'Georgia/E09454.mat', 'Georgia/E09455.hea', 'Georgia/E09455.mat', 'Georgia/E09456.hea', 'Georgia/E09456.mat', 'Georgia/E09457.hea', 'Georgia/E09457.mat', 'Georgia/E09458.hea', 'Georgia/E09458.mat', 'Georgia/E09459.hea', 'Georgia/E09459.mat', 'Georgia/E09460.hea', 'Georgia/E09460.mat', 'Georgia/E09461.hea', 'Georgia/E09461.mat', 'Georgia/E09462.hea', 'Georgia/E09462.mat', 'Georgia/E09463.hea', 'Georgia/E09463.mat', 'Georgia/E09464.hea', 'Georgia/E09464.mat', 'Georgia/E09465.hea', 'Georgia/E09465.mat', 'Georgia/E09466.hea', 'Georgia/E09466.mat', 'Georgia/E09467.hea', 'Georgia/E09467.mat', 'Georgia/E09468.hea', 'Georgia/E09468.mat', 'Georgia/E09469.hea', 'Georgia/E09469.mat', 'Georgia/E09470.hea', 'Georgia/E09470.mat', 'Georgia/E09471.hea', 'Georgia/E09471.mat', 'Georgia/E09472.hea', 'Georgia/E09472.mat', 'Georgia/E09473.hea', 'Georgia/E09473.mat', 'Georgia/E09474.hea', 'Georgia/E09474.mat', 'Georgia/E09475.hea', 'Georgia/E09475.mat', 'Georgia/E09476.hea', 'Georgia/E09476.mat', 'Georgia/E09477.hea', 'Georgia/E09477.mat', 'Georgia/E09478.hea', 'Georgia/E09478.mat', 'Georgia/E09479.hea', 'Georgia/E09479.mat', 'Georgia/E09480.hea', 'Georgia/E09480.mat', 'Georgia/E09481.hea', 'Georgia/E09481.mat', 'Georgia/E09482.hea', 'Georgia/E09482.mat', 'Georgia/E09483.hea', 'Georgia/E09483.mat', 'Georgia/E09484.hea', 'Georgia/E09484.mat', 'Georgia/E09485.hea', 'Georgia/E09485.mat', 'Georgia/E09486.hea', 'Georgia/E09486.mat', 'Georgia/E09487.hea', 'Georgia/E09487.mat', 'Georgia/E09488.hea', 'Georgia/E09488.mat', 'Georgia/E09489.hea', 'Georgia/E09489.mat', 'Georgia/E09490.hea', 'Georgia/E09490.mat', 'Georgia/E09491.hea', 'Georgia/E09491.mat', 'Georgia/E09492.hea', 'Georgia/E09492.mat', 'Georgia/E09493.hea', 'Georgia/E09493.mat', 'Georgia/E09494.hea', 'Georgia/E09494.mat', 'Georgia/E09495.hea', 'Georgia/E09495.mat', 'Georgia/E09496.hea', 'Georgia/E09496.mat', 'Georgia/E09497.hea', 'Georgia/E09497.mat', 'Georgia/E09498.hea', 'Georgia/E09498.mat', 'Georgia/E09499.hea', 'Georgia/E09499.mat', 'Georgia/E09500.hea', 'Georgia/E09500.mat', 'Georgia/E09501.hea', 'Georgia/E09501.mat', 'Georgia/E09502.hea', 'Georgia/E09502.mat', 'Georgia/E09503.hea', 'Georgia/E09503.mat', 'Georgia/E09504.hea', 'Georgia/E09504.mat', 'Georgia/E09505.hea', 'Georgia/E09505.mat', 'Georgia/E09506.hea', 'Georgia/E09506.mat', 'Georgia/E09507.hea', 'Georgia/E09507.mat', 'Georgia/E09508.hea', 'Georgia/E09508.mat', 'Georgia/E09509.hea', 'Georgia/E09509.mat', 'Georgia/E09510.hea', 'Georgia/E09510.mat', 'Georgia/E09511.hea', 'Georgia/E09511.mat', 'Georgia/E09512.hea', 'Georgia/E09512.mat', 'Georgia/E09513.hea', 'Georgia/E09513.mat', 'Georgia/E09514.hea', 'Georgia/E09514.mat', 'Georgia/E09515.hea', 'Georgia/E09515.mat', 'Georgia/E09516.hea', 'Georgia/E09516.mat', 'Georgia/E09517.hea', 'Georgia/E09517.mat', 'Georgia/E09518.hea', 'Georgia/E09518.mat', 'Georgia/E09519.hea', 'Georgia/E09519.mat', 'Georgia/E09520.hea', 'Georgia/E09520.mat', 'Georgia/E09521.hea', 'Georgia/E09521.mat', 'Georgia/E09522.hea', 'Georgia/E09522.mat', 'Georgia/E09523.hea', 'Georgia/E09523.mat', 'Georgia/E09524.hea', 'Georgia/E09524.mat', 'Georgia/E09525.hea', 'Georgia/E09525.mat', 'Georgia/E09526.hea', 'Georgia/E09526.mat', 'Georgia/E09527.hea', 'Georgia/E09527.mat', 'Georgia/E09528.hea', 'Georgia/E09528.mat', 'Georgia/E09529.hea', 'Georgia/E09529.mat', 'Georgia/E09530.hea', 'Georgia/E09530.mat', 'Georgia/E09531.hea', 'Georgia/E09531.mat', 'Georgia/E09532.hea', 'Georgia/E09532.mat', 'Georgia/E09533.hea', 'Georgia/E09533.mat', 'Georgia/E09534.hea', 'Georgia/E09534.mat', 'Georgia/E09535.hea', 'Georgia/E09535.mat', 'Georgia/E09536.hea', 'Georgia/E09536.mat', 'Georgia/E09537.hea', 'Georgia/E09537.mat', 'Georgia/E09538.hea', 'Georgia/E09538.mat', 'Georgia/E09539.hea', 'Georgia/E09539.mat', 'Georgia/E09540.hea', 'Georgia/E09540.mat', 'Georgia/E09541.hea', 'Georgia/E09541.mat', 'Georgia/E09542.hea', 'Georgia/E09542.mat', 'Georgia/E09543.hea', 'Georgia/E09543.mat', 'Georgia/E09544.hea', 'Georgia/E09544.mat', 'Georgia/E09545.hea', 'Georgia/E09545.mat', 'Georgia/E09546.hea', 'Georgia/E09546.mat', 'Georgia/E09547.hea', 'Georgia/E09547.mat', 'Georgia/E09548.hea', 'Georgia/E09548.mat', 'Georgia/E09549.hea', 'Georgia/E09549.mat', 'Georgia/E09550.hea', 'Georgia/E09550.mat', 'Georgia/E09551.hea', 'Georgia/E09551.mat', 'Georgia/E09552.hea', 'Georgia/E09552.mat', 'Georgia/E09553.hea', 'Georgia/E09553.mat', 'Georgia/E09554.hea', 'Georgia/E09554.mat', 'Georgia/E09555.hea', 'Georgia/E09555.mat', 'Georgia/E09556.hea', 'Georgia/E09556.mat', 'Georgia/E09557.hea', 'Georgia/E09557.mat', 'Georgia/E09558.hea', 'Georgia/E09558.mat', 'Georgia/E09559.hea', 'Georgia/E09559.mat', 'Georgia/E09560.hea', 'Georgia/E09560.mat', 'Georgia/E09561.hea', 'Georgia/E09561.mat', 'Georgia/E09562.hea', 'Georgia/E09562.mat', 'Georgia/E09563.hea', 'Georgia/E09563.mat', 'Georgia/E09564.hea', 'Georgia/E09564.mat', 'Georgia/E09565.hea', 'Georgia/E09565.mat', 'Georgia/E09566.hea', 'Georgia/E09566.mat', 'Georgia/E09567.hea', 'Georgia/E09567.mat', 'Georgia/E09568.hea', 'Georgia/E09568.mat', 'Georgia/E09569.hea', 'Georgia/E09569.mat', 'Georgia/E09570.hea', 'Georgia/E09570.mat', 'Georgia/E09571.hea', 'Georgia/E09571.mat', 'Georgia/E09572.hea', 'Georgia/E09572.mat', 'Georgia/E09573.hea', 'Georgia/E09573.mat', 'Georgia/E09574.hea', 'Georgia/E09574.mat', 'Georgia/E09575.hea', 'Georgia/E09575.mat', 'Georgia/E09576.hea', 'Georgia/E09576.mat', 'Georgia/E09577.hea', 'Georgia/E09577.mat', 'Georgia/E09578.hea', 'Georgia/E09578.mat', 'Georgia/E09579.hea', 'Georgia/E09579.mat', 'Georgia/E09580.hea', 'Georgia/E09580.mat', 'Georgia/E09581.hea', 'Georgia/E09581.mat', 'Georgia/E09582.hea', 'Georgia/E09582.mat', 'Georgia/E09583.hea', 'Georgia/E09583.mat', 'Georgia/E09584.hea', 'Georgia/E09584.mat', 'Georgia/E09585.hea', 'Georgia/E09585.mat', 'Georgia/E09586.hea', 'Georgia/E09586.mat', 'Georgia/E09587.hea', 'Georgia/E09587.mat', 'Georgia/E09588.hea', 'Georgia/E09588.mat', 'Georgia/E09589.hea', 'Georgia/E09589.mat', 'Georgia/E09590.hea', 'Georgia/E09590.mat', 'Georgia/E09591.hea', 'Georgia/E09591.mat', 'Georgia/E09592.hea', 'Georgia/E09592.mat', 'Georgia/E09593.hea', 'Georgia/E09593.mat', 'Georgia/E09594.hea', 'Georgia/E09594.mat', 'Georgia/E09595.hea', 'Georgia/E09595.mat', 'Georgia/E09596.hea', 'Georgia/E09596.mat', 'Georgia/E09597.hea', 'Georgia/E09597.mat', 'Georgia/E09598.hea', 'Georgia/E09598.mat', 'Georgia/E09599.hea', 'Georgia/E09599.mat', 'Georgia/E09600.hea', 'Georgia/E09600.mat', 'Georgia/E09601.hea', 'Georgia/E09601.mat', 'Georgia/E09602.hea', 'Georgia/E09602.mat', 'Georgia/E09603.hea', 'Georgia/E09603.mat', 'Georgia/E09604.hea', 'Georgia/E09604.mat', 'Georgia/E09605.hea', 'Georgia/E09605.mat', 'Georgia/E09606.hea', 'Georgia/E09606.mat', 'Georgia/E09607.hea', 'Georgia/E09607.mat', 'Georgia/E09608.hea', 'Georgia/E09608.mat', 'Georgia/E09609.hea', 'Georgia/E09609.mat', 'Georgia/E09610.hea', 'Georgia/E09610.mat', 'Georgia/E09611.hea', 'Georgia/E09611.mat', 'Georgia/E09612.hea', 'Georgia/E09612.mat', 'Georgia/E09613.hea', 'Georgia/E09613.mat', 'Georgia/E09614.hea', 'Georgia/E09614.mat', 'Georgia/E09615.hea', 'Georgia/E09615.mat', 'Georgia/E09616.hea', 'Georgia/E09616.mat', 'Georgia/E09617.hea', 'Georgia/E09617.mat', 'Georgia/E09618.hea', 'Georgia/E09618.mat', 'Georgia/E09619.hea', 'Georgia/E09619.mat', 'Georgia/E09620.hea', 'Georgia/E09620.mat', 'Georgia/E09621.hea', 'Georgia/E09621.mat', 'Georgia/E09622.hea', 'Georgia/E09622.mat', 'Georgia/E09623.hea', 'Georgia/E09623.mat', 'Georgia/E09624.hea', 'Georgia/E09624.mat', 'Georgia/E09625.hea', 'Georgia/E09625.mat', 'Georgia/E09626.hea', 'Georgia/E09626.mat', 'Georgia/E09627.hea', 'Georgia/E09627.mat', 'Georgia/E09628.hea', 'Georgia/E09628.mat', 'Georgia/E09629.hea', 'Georgia/E09629.mat', 'Georgia/E09630.hea', 'Georgia/E09630.mat', 'Georgia/E09631.hea', 'Georgia/E09631.mat', 'Georgia/E09632.hea', 'Georgia/E09632.mat', 'Georgia/E09633.hea', 'Georgia/E09633.mat', 'Georgia/E09634.hea', 'Georgia/E09634.mat', 'Georgia/E09635.hea', 'Georgia/E09635.mat', 'Georgia/E09636.hea', 'Georgia/E09636.mat', 'Georgia/E09637.hea', 'Georgia/E09637.mat', 'Georgia/E09638.hea', 'Georgia/E09638.mat', 'Georgia/E09639.hea', 'Georgia/E09639.mat', 'Georgia/E09640.hea', 'Georgia/E09640.mat', 'Georgia/E09641.hea', 'Georgia/E09641.mat', 'Georgia/E09642.hea', 'Georgia/E09642.mat', 'Georgia/E09643.hea', 'Georgia/E09643.mat', 'Georgia/E09644.hea', 'Georgia/E09644.mat', 'Georgia/E09645.hea', 'Georgia/E09645.mat', 'Georgia/E09646.hea', 'Georgia/E09646.mat', 'Georgia/E09647.hea', 'Georgia/E09647.mat', 'Georgia/E09648.hea', 'Georgia/E09648.mat', 'Georgia/E09649.hea', 'Georgia/E09649.mat', 'Georgia/E09650.hea', 'Georgia/E09650.mat', 'Georgia/E09651.hea', 'Georgia/E09651.mat', 'Georgia/E09652.hea', 'Georgia/E09652.mat', 'Georgia/E09653.hea', 'Georgia/E09653.mat', 'Georgia/E09654.hea', 'Georgia/E09654.mat', 'Georgia/E09655.hea', 'Georgia/E09655.mat', 'Georgia/E09656.hea', 'Georgia/E09656.mat', 'Georgia/E09657.hea', 'Georgia/E09657.mat', 'Georgia/E09658.hea', 'Georgia/E09658.mat', 'Georgia/E09659.hea', 'Georgia/E09659.mat', 'Georgia/E09660.hea', 'Georgia/E09660.mat', 'Georgia/E09661.hea', 'Georgia/E09661.mat', 'Georgia/E09662.hea', 'Georgia/E09662.mat', 'Georgia/E09663.hea', 'Georgia/E09663.mat', 'Georgia/E09664.hea', 'Georgia/E09664.mat', 'Georgia/E09665.hea', 'Georgia/E09665.mat', 'Georgia/E09666.hea', 'Georgia/E09666.mat', 'Georgia/E09667.hea', 'Georgia/E09667.mat', 'Georgia/E09668.hea', 'Georgia/E09668.mat', 'Georgia/E09669.hea', 'Georgia/E09669.mat', 'Georgia/E09670.hea', 'Georgia/E09670.mat', 'Georgia/E09671.hea', 'Georgia/E09671.mat', 'Georgia/E09672.hea', 'Georgia/E09672.mat', 'Georgia/E09673.hea', 'Georgia/E09673.mat', 'Georgia/E09674.hea', 'Georgia/E09674.mat', 'Georgia/E09675.hea', 'Georgia/E09675.mat', 'Georgia/E09676.hea', 'Georgia/E09676.mat', 'Georgia/E09677.hea', 'Georgia/E09677.mat', 'Georgia/E09678.hea', 'Georgia/E09678.mat', 'Georgia/E09679.hea', 'Georgia/E09679.mat', 'Georgia/E09680.hea', 'Georgia/E09680.mat', 'Georgia/E09681.hea', 'Georgia/E09681.mat', 'Georgia/E09682.hea', 'Georgia/E09682.mat', 'Georgia/E09683.hea', 'Georgia/E09683.mat', 'Georgia/E09684.hea', 'Georgia/E09684.mat', 'Georgia/E09685.hea', 'Georgia/E09685.mat', 'Georgia/E09686.hea', 'Georgia/E09686.mat', 'Georgia/E09687.hea', 'Georgia/E09687.mat', 'Georgia/E09688.hea', 'Georgia/E09688.mat', 'Georgia/E09689.hea', 'Georgia/E09689.mat', 'Georgia/E09690.hea', 'Georgia/E09690.mat', 'Georgia/E09691.hea', 'Georgia/E09691.mat', 'Georgia/E09692.hea', 'Georgia/E09692.mat', 'Georgia/E09693.hea', 'Georgia/E09693.mat', 'Georgia/E09694.hea', 'Georgia/E09694.mat', 'Georgia/E09695.hea', 'Georgia/E09695.mat', 'Georgia/E09696.hea', 'Georgia/E09696.mat', 'Georgia/E09697.hea', 'Georgia/E09697.mat', 'Georgia/E09698.hea', 'Georgia/E09698.mat', 'Georgia/E09699.hea', 'Georgia/E09699.mat', 'Georgia/E09700.hea', 'Georgia/E09700.mat', 'Georgia/E09701.hea', 'Georgia/E09701.mat', 'Georgia/E09702.hea', 'Georgia/E09702.mat', 'Georgia/E09703.hea', 'Georgia/E09703.mat', 'Georgia/E09704.hea', 'Georgia/E09704.mat', 'Georgia/E09705.hea', 'Georgia/E09705.mat', 'Georgia/E09706.hea', 'Georgia/E09706.mat', 'Georgia/E09707.hea', 'Georgia/E09707.mat', 'Georgia/E09708.hea', 'Georgia/E09708.mat', 'Georgia/E09709.hea', 'Georgia/E09709.mat', 'Georgia/E09710.hea', 'Georgia/E09710.mat', 'Georgia/E09711.hea', 'Georgia/E09711.mat', 'Georgia/E09712.hea', 'Georgia/E09712.mat', 'Georgia/E09713.hea', 'Georgia/E09713.mat', 'Georgia/E09714.hea', 'Georgia/E09714.mat', 'Georgia/E09715.hea', 'Georgia/E09715.mat', 'Georgia/E09716.hea', 'Georgia/E09716.mat', 'Georgia/E09717.hea', 'Georgia/E09717.mat', 'Georgia/E09718.hea', 'Georgia/E09718.mat', 'Georgia/E09719.hea', 'Georgia/E09719.mat', 'Georgia/E09720.hea', 'Georgia/E09720.mat', 'Georgia/E09721.hea', 'Georgia/E09721.mat', 'Georgia/E09722.hea', 'Georgia/E09722.mat', 'Georgia/E09723.hea', 'Georgia/E09723.mat', 'Georgia/E09724.hea', 'Georgia/E09724.mat', 'Georgia/E09725.hea', 'Georgia/E09725.mat', 'Georgia/E09726.hea', 'Georgia/E09726.mat', 'Georgia/E09727.hea', 'Georgia/E09727.mat', 'Georgia/E09728.hea', 'Georgia/E09728.mat', 'Georgia/E09729.hea', 'Georgia/E09729.mat', 'Georgia/E09730.hea', 'Georgia/E09730.mat', 'Georgia/E09731.hea', 'Georgia/E09731.mat', 'Georgia/E09732.hea', 'Georgia/E09732.mat', 'Georgia/E09733.hea', 'Georgia/E09733.mat', 'Georgia/E09734.hea', 'Georgia/E09734.mat', 'Georgia/E09735.hea', 'Georgia/E09735.mat', 'Georgia/E09736.hea', 'Georgia/E09736.mat', 'Georgia/E09737.hea', 'Georgia/E09737.mat', 'Georgia/E09738.hea', 'Georgia/E09738.mat', 'Georgia/E09739.hea', 'Georgia/E09739.mat', 'Georgia/E09740.hea', 'Georgia/E09740.mat', 'Georgia/E09741.hea', 'Georgia/E09741.mat', 'Georgia/E09742.hea', 'Georgia/E09742.mat', 'Georgia/E09743.hea', 'Georgia/E09743.mat', 'Georgia/E09744.hea', 'Georgia/E09744.mat', 'Georgia/E09745.hea', 'Georgia/E09745.mat', 'Georgia/E09746.hea', 'Georgia/E09746.mat', 'Georgia/E09747.hea', 'Georgia/E09747.mat', 'Georgia/E09748.hea', 'Georgia/E09748.mat', 'Georgia/E09749.hea', 'Georgia/E09749.mat', 'Georgia/E09750.hea', 'Georgia/E09750.mat', 'Georgia/E09751.hea', 'Georgia/E09751.mat', 'Georgia/E09752.hea', 'Georgia/E09752.mat', 'Georgia/E09753.hea', 'Georgia/E09753.mat', 'Georgia/E09754.hea', 'Georgia/E09754.mat', 'Georgia/E09755.hea', 'Georgia/E09755.mat', 'Georgia/E09756.hea', 'Georgia/E09756.mat', 'Georgia/E09757.hea', 'Georgia/E09757.mat', 'Georgia/E09758.hea', 'Georgia/E09758.mat', 'Georgia/E09759.hea', 'Georgia/E09759.mat', 'Georgia/E09760.hea', 'Georgia/E09760.mat', 'Georgia/E09761.hea', 'Georgia/E09761.mat', 'Georgia/E09762.hea', 'Georgia/E09762.mat', 'Georgia/E09763.hea', 'Georgia/E09763.mat', 'Georgia/E09764.hea', 'Georgia/E09764.mat', 'Georgia/E09765.hea', 'Georgia/E09765.mat', 'Georgia/E09766.hea', 'Georgia/E09766.mat', 'Georgia/E09767.hea', 'Georgia/E09767.mat', 'Georgia/E09768.hea', 'Georgia/E09768.mat', 'Georgia/E09769.hea', 'Georgia/E09769.mat', 'Georgia/E09770.hea', 'Georgia/E09770.mat', 'Georgia/E09771.hea', 'Georgia/E09771.mat', 'Georgia/E09772.hea', 'Georgia/E09772.mat', 'Georgia/E09773.hea', 'Georgia/E09773.mat', 'Georgia/E09774.hea', 'Georgia/E09774.mat', 'Georgia/E09775.hea', 'Georgia/E09775.mat', 'Georgia/E09776.hea', 'Georgia/E09776.mat', 'Georgia/E09777.hea', 'Georgia/E09777.mat', 'Georgia/E09778.hea', 'Georgia/E09778.mat', 'Georgia/E09779.hea', 'Georgia/E09779.mat', 'Georgia/E09780.hea', 'Georgia/E09780.mat', 'Georgia/E09781.hea', 'Georgia/E09781.mat', 'Georgia/E09782.hea', 'Georgia/E09782.mat', 'Georgia/E09783.hea', 'Georgia/E09783.mat', 'Georgia/E09784.hea', 'Georgia/E09784.mat', 'Georgia/E09785.hea', 'Georgia/E09785.mat', 'Georgia/E09786.hea', 'Georgia/E09786.mat', 'Georgia/E09787.hea', 'Georgia/E09787.mat', 'Georgia/E09788.hea', 'Georgia/E09788.mat', 'Georgia/E09789.hea', 'Georgia/E09789.mat', 'Georgia/E09790.hea', 'Georgia/E09790.mat', 'Georgia/E09791.hea', 'Georgia/E09791.mat', 'Georgia/E09792.hea', 'Georgia/E09792.mat', 'Georgia/E09793.hea', 'Georgia/E09793.mat', 'Georgia/E09794.hea', 'Georgia/E09794.mat', 'Georgia/E09795.hea', 'Georgia/E09795.mat', 'Georgia/E09796.hea', 'Georgia/E09796.mat', 'Georgia/E09797.hea', 'Georgia/E09797.mat', 'Georgia/E09798.hea', 'Georgia/E09798.mat', 'Georgia/E09799.hea', 'Georgia/E09799.mat', 'Georgia/E09800.hea', 'Georgia/E09800.mat', 'Georgia/E09801.hea', 'Georgia/E09801.mat', 'Georgia/E09802.hea', 'Georgia/E09802.mat', 'Georgia/E09803.hea', 'Georgia/E09803.mat', 'Georgia/E09804.hea', 'Georgia/E09804.mat', 'Georgia/E09805.hea', 'Georgia/E09805.mat', 'Georgia/E09806.hea', 'Georgia/E09806.mat', 'Georgia/E09807.hea', 'Georgia/E09807.mat', 'Georgia/E09808.hea', 'Georgia/E09808.mat', 'Georgia/E09809.hea', 'Georgia/E09809.mat', 'Georgia/E09810.hea', 'Georgia/E09810.mat', 'Georgia/E09811.hea', 'Georgia/E09811.mat', 'Georgia/E09812.hea', 'Georgia/E09812.mat', 'Georgia/E09813.hea', 'Georgia/E09813.mat', 'Georgia/E09814.hea', 'Georgia/E09814.mat', 'Georgia/E09815.hea', 'Georgia/E09815.mat', 'Georgia/E09816.hea', 'Georgia/E09816.mat', 'Georgia/E09817.hea', 'Georgia/E09817.mat', 'Georgia/E09818.hea', 'Georgia/E09818.mat', 'Georgia/E09819.hea', 'Georgia/E09819.mat', 'Georgia/E09820.hea', 'Georgia/E09820.mat', 'Georgia/E09821.hea', 'Georgia/E09821.mat', 'Georgia/E09822.hea', 'Georgia/E09822.mat', 'Georgia/E09823.hea', 'Georgia/E09823.mat', 'Georgia/E09824.hea', 'Georgia/E09824.mat', 'Georgia/E09825.hea', 'Georgia/E09825.mat', 'Georgia/E09826.hea', 'Georgia/E09826.mat', 'Georgia/E09827.hea', 'Georgia/E09827.mat', 'Georgia/E09828.hea', 'Georgia/E09828.mat', 'Georgia/E09829.hea', 'Georgia/E09829.mat', 'Georgia/E09830.hea', 'Georgia/E09830.mat', 'Georgia/E09831.hea', 'Georgia/E09831.mat', 'Georgia/E09832.hea', 'Georgia/E09832.mat', 'Georgia/E09833.hea', 'Georgia/E09833.mat', 'Georgia/E09834.hea', 'Georgia/E09834.mat', 'Georgia/E09835.hea', 'Georgia/E09835.mat', 'Georgia/E09836.hea', 'Georgia/E09836.mat', 'Georgia/E09837.hea', 'Georgia/E09837.mat', 'Georgia/E09838.hea', 'Georgia/E09838.mat', 'Georgia/E09839.hea', 'Georgia/E09839.mat', 'Georgia/E09840.hea', 'Georgia/E09840.mat', 'Georgia/E09841.hea', 'Georgia/E09841.mat', 'Georgia/E09842.hea', 'Georgia/E09842.mat', 'Georgia/E09843.hea', 'Georgia/E09843.mat', 'Georgia/E09844.hea', 'Georgia/E09844.mat', 'Georgia/E09845.hea', 'Georgia/E09845.mat', 'Georgia/E09846.hea', 'Georgia/E09846.mat', 'Georgia/E09847.hea', 'Georgia/E09847.mat', 'Georgia/E09848.hea', 'Georgia/E09848.mat', 'Georgia/E09849.hea', 'Georgia/E09849.mat', 'Georgia/E09850.hea', 'Georgia/E09850.mat', 'Georgia/E09851.hea', 'Georgia/E09851.mat', 'Georgia/E09852.hea', 'Georgia/E09852.mat', 'Georgia/E09853.hea', 'Georgia/E09853.mat', 'Georgia/E09854.hea', 'Georgia/E09854.mat', 'Georgia/E09855.hea', 'Georgia/E09855.mat', 'Georgia/E09856.hea', 'Georgia/E09856.mat', 'Georgia/E09857.hea', 'Georgia/E09857.mat', 'Georgia/E09858.hea', 'Georgia/E09858.mat', 'Georgia/E09859.hea', 'Georgia/E09859.mat', 'Georgia/E09860.hea', 'Georgia/E09860.mat', 'Georgia/E09861.hea', 'Georgia/E09861.mat', 'Georgia/E09862.hea', 'Georgia/E09862.mat', 'Georgia/E09863.hea', 'Georgia/E09863.mat', 'Georgia/E09864.hea', 'Georgia/E09864.mat', 'Georgia/E09865.hea', 'Georgia/E09865.mat', 'Georgia/E09866.hea', 'Georgia/E09866.mat', 'Georgia/E09867.hea', 'Georgia/E09867.mat', 'Georgia/E09868.hea', 'Georgia/E09868.mat', 'Georgia/E09869.hea', 'Georgia/E09869.mat', 'Georgia/E09870.hea', 'Georgia/E09870.mat', 'Georgia/E09871.hea', 'Georgia/E09871.mat', 'Georgia/E09872.hea', 'Georgia/E09872.mat', 'Georgia/E09873.hea', 'Georgia/E09873.mat', 'Georgia/E09874.hea', 'Georgia/E09874.mat', 'Georgia/E09875.hea', 'Georgia/E09875.mat', 'Georgia/E09876.hea', 'Georgia/E09876.mat', 'Georgia/E09877.hea', 'Georgia/E09877.mat', 'Georgia/E09878.hea', 'Georgia/E09878.mat', 'Georgia/E09879.hea', 'Georgia/E09879.mat', 'Georgia/E09880.hea', 'Georgia/E09880.mat', 'Georgia/E09881.hea', 'Georgia/E09881.mat', 'Georgia/E09882.hea', 'Georgia/E09882.mat', 'Georgia/E09883.hea', 'Georgia/E09883.mat', 'Georgia/E09884.hea', 'Georgia/E09884.mat', 'Georgia/E09885.hea', 'Georgia/E09885.mat', 'Georgia/E09886.hea', 'Georgia/E09886.mat', 'Georgia/E09887.hea', 'Georgia/E09887.mat', 'Georgia/E09888.hea', 'Georgia/E09888.mat', 'Georgia/E09889.hea', 'Georgia/E09889.mat', 'Georgia/E09890.hea', 'Georgia/E09890.mat', 'Georgia/E09891.hea', 'Georgia/E09891.mat', 'Georgia/E09892.hea', 'Georgia/E09892.mat', 'Georgia/E09893.hea', 'Georgia/E09893.mat', 'Georgia/E09894.hea', 'Georgia/E09894.mat', 'Georgia/E09895.hea', 'Georgia/E09895.mat', 'Georgia/E09896.hea', 'Georgia/E09896.mat', 'Georgia/E09897.hea', 'Georgia/E09897.mat', 'Georgia/E09898.hea', 'Georgia/E09898.mat', 'Georgia/E09899.hea', 'Georgia/E09899.mat', 'Georgia/E09900.hea', 'Georgia/E09900.mat', 'Georgia/E09901.hea', 'Georgia/E09901.mat', 'Georgia/E09902.hea', 'Georgia/E09902.mat', 'Georgia/E09903.hea', 'Georgia/E09903.mat', 'Georgia/E09904.hea', 'Georgia/E09904.mat', 'Georgia/E09905.hea', 'Georgia/E09905.mat', 'Georgia/E09906.hea', 'Georgia/E09906.mat', 'Georgia/E09907.hea', 'Georgia/E09907.mat', 'Georgia/E09908.hea', 'Georgia/E09908.mat', 'Georgia/E09909.hea', 'Georgia/E09909.mat', 'Georgia/E09910.hea', 'Georgia/E09910.mat', 'Georgia/E09911.hea', 'Georgia/E09911.mat', 'Georgia/E09912.hea', 'Georgia/E09912.mat', 'Georgia/E09913.hea', 'Georgia/E09913.mat', 'Georgia/E09914.hea', 'Georgia/E09914.mat', 'Georgia/E09915.hea', 'Georgia/E09915.mat', 'Georgia/E09916.hea', 'Georgia/E09916.mat', 'Georgia/E09917.hea', 'Georgia/E09917.mat', 'Georgia/E09918.hea', 'Georgia/E09918.mat', 'Georgia/E09919.hea', 'Georgia/E09919.mat', 'Georgia/E09920.hea', 'Georgia/E09920.mat', 'Georgia/E09921.hea', 'Georgia/E09921.mat', 'Georgia/E09922.hea', 'Georgia/E09922.mat', 'Georgia/E09923.hea', 'Georgia/E09923.mat', 'Georgia/E09924.hea', 'Georgia/E09924.mat', 'Georgia/E09925.hea', 'Georgia/E09925.mat', 'Georgia/E09926.hea', 'Georgia/E09926.mat', 'Georgia/E09927.hea', 'Georgia/E09927.mat', 'Georgia/E09928.hea', 'Georgia/E09928.mat', 'Georgia/E09929.hea', 'Georgia/E09929.mat', 'Georgia/E09930.hea', 'Georgia/E09930.mat', 'Georgia/E09931.hea', 'Georgia/E09931.mat', 'Georgia/E09932.hea', 'Georgia/E09932.mat', 'Georgia/E09933.hea', 'Georgia/E09933.mat', 'Georgia/E09934.hea', 'Georgia/E09934.mat', 'Georgia/E09935.hea', 'Georgia/E09935.mat', 'Georgia/E09936.hea', 'Georgia/E09936.mat', 'Georgia/E09937.hea', 'Georgia/E09937.mat', 'Georgia/E09938.hea', 'Georgia/E09938.mat', 'Georgia/E09939.hea', 'Georgia/E09939.mat', 'Georgia/E09940.hea', 'Georgia/E09940.mat', 'Georgia/E09941.hea', 'Georgia/E09941.mat', 'Georgia/E09942.hea', 'Georgia/E09942.mat', 'Georgia/E09943.hea', 'Georgia/E09943.mat', 'Georgia/E09944.hea', 'Georgia/E09944.mat', 'Georgia/E09945.hea', 'Georgia/E09945.mat', 'Georgia/E09946.hea', 'Georgia/E09946.mat', 'Georgia/E09947.hea', 'Georgia/E09947.mat', 'Georgia/E09948.hea', 'Georgia/E09948.mat', 'Georgia/E09949.hea', 'Georgia/E09949.mat', 'Georgia/E09950.hea', 'Georgia/E09950.mat', 'Georgia/E09951.hea', 'Georgia/E09951.mat', 'Georgia/E09952.hea', 'Georgia/E09952.mat', 'Georgia/E09953.hea', 'Georgia/E09953.mat', 'Georgia/E09954.hea', 'Georgia/E09954.mat', 'Georgia/E09955.hea', 'Georgia/E09955.mat', 'Georgia/E09956.hea', 'Georgia/E09956.mat', 'Georgia/E09957.hea', 'Georgia/E09957.mat', 'Georgia/E09958.hea', 'Georgia/E09958.mat', 'Georgia/E09959.hea', 'Georgia/E09959.mat', 'Georgia/E09960.hea', 'Georgia/E09960.mat', 'Georgia/E09961.hea', 'Georgia/E09961.mat', 'Georgia/E09962.hea', 'Georgia/E09962.mat', 'Georgia/E09963.hea', 'Georgia/E09963.mat', 'Georgia/E09964.hea', 'Georgia/E09964.mat', 'Georgia/E09965.hea', 'Georgia/E09965.mat', 'Georgia/E09966.hea', 'Georgia/E09966.mat', 'Georgia/E09967.hea', 'Georgia/E09967.mat', 'Georgia/E09968.hea', 'Georgia/E09968.mat', 'Georgia/E09969.hea', 'Georgia/E09969.mat', 'Georgia/E09970.hea', 'Georgia/E09970.mat', 'Georgia/E09971.hea', 'Georgia/E09971.mat', 'Georgia/E09972.hea', 'Georgia/E09972.mat', 'Georgia/E09973.hea', 'Georgia/E09973.mat', 'Georgia/E09974.hea', 'Georgia/E09974.mat', 'Georgia/E09975.hea', 'Georgia/E09975.mat', 'Georgia/E09976.hea', 'Georgia/E09976.mat', 'Georgia/E09977.hea', 'Georgia/E09977.mat', 'Georgia/E09978.hea', 'Georgia/E09978.mat', 'Georgia/E09979.hea', 'Georgia/E09979.mat', 'Georgia/E09980.hea', 'Georgia/E09980.mat', 'Georgia/E09981.hea', 'Georgia/E09981.mat', 'Georgia/E09982.hea', 'Georgia/E09982.mat', 'Georgia/E09983.hea', 'Georgia/E09983.mat', 'Georgia/E09984.hea', 'Georgia/E09984.mat', 'Georgia/E09985.hea', 'Georgia/E09985.mat', 'Georgia/E09986.hea', 'Georgia/E09986.mat', 'Georgia/E09987.hea', 'Georgia/E09987.mat', 'Georgia/E09988.hea', 'Georgia/E09988.mat', 'Georgia/E09989.hea', 'Georgia/E09989.mat', 'Georgia/E09990.hea', 'Georgia/E09990.mat', 'Georgia/E09991.hea', 'Georgia/E09991.mat', 'Georgia/E09992.hea', 'Georgia/E09992.mat', 'Georgia/E09993.hea', 'Georgia/E09993.mat', 'Georgia/E09994.hea', 'Georgia/E09994.mat', 'Georgia/E09995.hea', 'Georgia/E09995.mat', 'Georgia/E09996.hea', 'Georgia/E09996.mat', 'Georgia/E09997.hea', 'Georgia/E09997.mat', 'Georgia/E09998.hea', 'Georgia/E09998.mat', 'Georgia/E09999.hea', 'Georgia/E09999.mat', 'Georgia/E10000.hea', 'Georgia/E10000.mat', 'Georgia/E10001.hea', 'Georgia/E10001.mat', 'Georgia/E10002.hea', 'Georgia/E10002.mat', 'Georgia/E10003.hea', 'Georgia/E10003.mat', 'Georgia/E10004.hea', 'Georgia/E10004.mat', 'Georgia/E10005.hea', 'Georgia/E10005.mat', 'Georgia/E10006.hea', 'Georgia/E10006.mat', 'Georgia/E10007.hea', 'Georgia/E10007.mat', 'Georgia/E10008.hea', 'Georgia/E10008.mat', 'Georgia/E10009.hea', 'Georgia/E10009.mat', 'Georgia/E10010.hea', 'Georgia/E10010.mat', 'Georgia/E10011.hea', 'Georgia/E10011.mat', 'Georgia/E10012.hea', 'Georgia/E10012.mat', 'Georgia/E10013.hea', 'Georgia/E10013.mat', 'Georgia/E10014.hea', 'Georgia/E10014.mat', 'Georgia/E10015.hea', 'Georgia/E10015.mat', 'Georgia/E10016.hea', 'Georgia/E10016.mat', 'Georgia/E10017.hea', 'Georgia/E10017.mat', 'Georgia/E10018.hea', 'Georgia/E10018.mat', 'Georgia/E10019.hea', 'Georgia/E10019.mat', 'Georgia/E10020.hea', 'Georgia/E10020.mat', 'Georgia/E10021.hea', 'Georgia/E10021.mat', 'Georgia/E10022.hea', 'Georgia/E10022.mat', 'Georgia/E10023.hea', 'Georgia/E10023.mat', 'Georgia/E10024.hea', 'Georgia/E10024.mat', 'Georgia/E10025.hea', 'Georgia/E10025.mat', 'Georgia/E10026.hea', 'Georgia/E10026.mat', 'Georgia/E10027.hea', 'Georgia/E10027.mat', 'Georgia/E10028.hea', 'Georgia/E10028.mat', 'Georgia/E10029.hea', 'Georgia/E10029.mat', 'Georgia/E10030.hea', 'Georgia/E10030.mat', 'Georgia/E10031.hea', 'Georgia/E10031.mat', 'Georgia/E10032.hea', 'Georgia/E10032.mat', 'Georgia/E10033.hea', 'Georgia/E10033.mat', 'Georgia/E10034.hea', 'Georgia/E10034.mat', 'Georgia/E10035.hea', 'Georgia/E10035.mat', 'Georgia/E10036.hea', 'Georgia/E10036.mat', 'Georgia/E10037.hea', 'Georgia/E10037.mat', 'Georgia/E10038.hea', 'Georgia/E10038.mat', 'Georgia/E10039.hea', 'Georgia/E10039.mat', 'Georgia/E10040.hea', 'Georgia/E10040.mat', 'Georgia/E10041.hea', 'Georgia/E10041.mat', 'Georgia/E10042.hea', 'Georgia/E10042.mat', 'Georgia/E10043.hea', 'Georgia/E10043.mat', 'Georgia/E10044.hea', 'Georgia/E10044.mat', 'Georgia/E10045.hea', 'Georgia/E10045.mat', 'Georgia/E10046.hea', 'Georgia/E10046.mat', 'Georgia/E10047.hea', 'Georgia/E10047.mat', 'Georgia/E10048.hea', 'Georgia/E10048.mat', 'Georgia/E10049.hea', 'Georgia/E10049.mat', 'Georgia/E10050.hea', 'Georgia/E10050.mat', 'Georgia/E10051.hea', 'Georgia/E10051.mat', 'Georgia/E10052.hea', 'Georgia/E10052.mat', 'Georgia/E10053.hea', 'Georgia/E10053.mat', 'Georgia/E10054.hea', 'Georgia/E10054.mat', 'Georgia/E10055.hea', 'Georgia/E10055.mat', 'Georgia/E10056.hea', 'Georgia/E10056.mat', 'Georgia/E10057.hea', 'Georgia/E10057.mat', 'Georgia/E10058.hea', 'Georgia/E10058.mat', 'Georgia/E10059.hea', 'Georgia/E10059.mat', 'Georgia/E10060.hea', 'Georgia/E10060.mat', 'Georgia/E10061.hea', 'Georgia/E10061.mat', 'Georgia/E10062.hea', 'Georgia/E10062.mat', 'Georgia/E10063.hea', 'Georgia/E10063.mat', 'Georgia/E10064.hea', 'Georgia/E10064.mat', 'Georgia/E10065.hea', 'Georgia/E10065.mat', 'Georgia/E10066.hea', 'Georgia/E10066.mat', 'Georgia/E10067.hea', 'Georgia/E10067.mat', 'Georgia/E10068.hea', 'Georgia/E10068.mat', 'Georgia/E10069.hea', 'Georgia/E10069.mat', 'Georgia/E10070.hea', 'Georgia/E10070.mat', 'Georgia/E10071.hea', 'Georgia/E10071.mat', 'Georgia/E10072.hea', 'Georgia/E10072.mat', 'Georgia/E10073.hea', 'Georgia/E10073.mat', 'Georgia/E10074.hea', 'Georgia/E10074.mat', 'Georgia/E10075.hea', 'Georgia/E10075.mat', 'Georgia/E10076.hea', 'Georgia/E10076.mat', 'Georgia/E10077.hea', 'Georgia/E10077.mat', 'Georgia/E10078.hea', 'Georgia/E10078.mat', 'Georgia/E10079.hea', 'Georgia/E10079.mat', 'Georgia/E10080.hea', 'Georgia/E10080.mat', 'Georgia/E10081.hea', 'Georgia/E10081.mat', 'Georgia/E10082.hea', 'Georgia/E10082.mat', 'Georgia/E10083.hea', 'Georgia/E10083.mat', 'Georgia/E10084.hea', 'Georgia/E10084.mat', 'Georgia/E10085.hea', 'Georgia/E10085.mat', 'Georgia/E10086.hea', 'Georgia/E10086.mat', 'Georgia/E10087.hea', 'Georgia/E10087.mat', 'Georgia/E10088.hea', 'Georgia/E10088.mat', 'Georgia/E10089.hea', 'Georgia/E10089.mat', 'Georgia/E10090.hea', 'Georgia/E10090.mat', 'Georgia/E10091.hea', 'Georgia/E10091.mat', 'Georgia/E10092.hea', 'Georgia/E10092.mat', 'Georgia/E10093.hea', 'Georgia/E10093.mat', 'Georgia/E10094.hea', 'Georgia/E10094.mat', 'Georgia/E10095.hea', 'Georgia/E10095.mat', 'Georgia/E10096.hea', 'Georgia/E10096.mat', 'Georgia/E10097.hea', 'Georgia/E10097.mat', 'Georgia/E10098.hea', 'Georgia/E10098.mat', 'Georgia/E10099.hea', 'Georgia/E10099.mat', 'Georgia/E10100.hea', 'Georgia/E10100.mat', 'Georgia/E10101.hea', 'Georgia/E10101.mat', 'Georgia/E10102.hea', 'Georgia/E10102.mat', 'Georgia/E10103.hea', 'Georgia/E10103.mat', 'Georgia/E10104.hea', 'Georgia/E10104.mat', 'Georgia/E10105.hea', 'Georgia/E10105.mat', 'Georgia/E10106.hea', 'Georgia/E10106.mat', 'Georgia/E10107.hea', 'Georgia/E10107.mat', 'Georgia/E10108.hea', 'Georgia/E10108.mat', 'Georgia/E10109.hea', 'Georgia/E10109.mat', 'Georgia/E10110.hea', 'Georgia/E10110.mat', 'Georgia/E10111.hea', 'Georgia/E10111.mat', 'Georgia/E10112.hea', 'Georgia/E10112.mat', 'Georgia/E10113.hea', 'Georgia/E10113.mat', 'Georgia/E10114.hea', 'Georgia/E10114.mat', 'Georgia/E10115.hea', 'Georgia/E10115.mat', 'Georgia/E10116.hea', 'Georgia/E10116.mat', 'Georgia/E10117.hea', 'Georgia/E10117.mat', 'Georgia/E10118.hea', 'Georgia/E10118.mat', 'Georgia/E10119.hea', 'Georgia/E10119.mat', 'Georgia/E10120.hea', 'Georgia/E10120.mat', 'Georgia/E10121.hea', 'Georgia/E10121.mat', 'Georgia/E10122.hea', 'Georgia/E10122.mat', 'Georgia/E10123.hea', 'Georgia/E10123.mat', 'Georgia/E10124.hea', 'Georgia/E10124.mat', 'Georgia/E10125.hea', 'Georgia/E10125.mat', 'Georgia/E10126.hea', 'Georgia/E10126.mat', 'Georgia/E10127.hea', 'Georgia/E10127.mat', 'Georgia/E10128.hea', 'Georgia/E10128.mat', 'Georgia/E10129.hea', 'Georgia/E10129.mat', 'Georgia/E10130.hea', 'Georgia/E10130.mat', 'Georgia/E10131.hea', 'Georgia/E10131.mat', 'Georgia/E10132.hea', 'Georgia/E10132.mat', 'Georgia/E10133.hea', 'Georgia/E10133.mat', 'Georgia/E10134.hea', 'Georgia/E10134.mat', 'Georgia/E10135.hea', 'Georgia/E10135.mat', 'Georgia/E10136.hea', 'Georgia/E10136.mat', 'Georgia/E10137.hea', 'Georgia/E10137.mat', 'Georgia/E10138.hea', 'Georgia/E10138.mat', 'Georgia/E10139.hea', 'Georgia/E10139.mat', 'Georgia/E10140.hea', 'Georgia/E10140.mat', 'Georgia/E10141.hea', 'Georgia/E10141.mat', 'Georgia/E10142.hea', 'Georgia/E10142.mat', 'Georgia/E10143.hea', 'Georgia/E10143.mat', 'Georgia/E10144.hea', 'Georgia/E10144.mat', 'Georgia/E10145.hea', 'Georgia/E10145.mat', 'Georgia/E10146.hea', 'Georgia/E10146.mat', 'Georgia/E10147.hea', 'Georgia/E10147.mat', 'Georgia/E10148.hea', 'Georgia/E10148.mat', 'Georgia/E10149.hea', 'Georgia/E10149.mat', 'Georgia/E10150.hea', 'Georgia/E10150.mat', 'Georgia/E10151.hea', 'Georgia/E10151.mat', 'Georgia/E10152.hea', 'Georgia/E10152.mat', 'Georgia/E10153.hea', 'Georgia/E10153.mat', 'Georgia/E10154.hea', 'Georgia/E10154.mat', 'Georgia/E10155.hea', 'Georgia/E10155.mat', 'Georgia/E10156.hea', 'Georgia/E10156.mat', 'Georgia/E10157.hea', 'Georgia/E10157.mat', 'Georgia/E10158.hea', 'Georgia/E10158.mat', 'Georgia/E10159.hea', 'Georgia/E10159.mat', 'Georgia/E10160.hea', 'Georgia/E10160.mat', 'Georgia/E10161.hea', 'Georgia/E10161.mat', 'Georgia/E10162.hea', 'Georgia/E10162.mat', 'Georgia/E10163.hea', 'Georgia/E10163.mat', 'Georgia/E10164.hea', 'Georgia/E10164.mat', 'Georgia/E10165.hea', 'Georgia/E10165.mat', 'Georgia/E10166.hea', 'Georgia/E10166.mat', 'Georgia/E10167.hea', 'Georgia/E10167.mat', 'Georgia/E10168.hea', 'Georgia/E10168.mat', 'Georgia/E10169.hea', 'Georgia/E10169.mat', 'Georgia/E10170.hea', 'Georgia/E10170.mat', 'Georgia/E10171.hea', 'Georgia/E10171.mat', 'Georgia/E10172.hea', 'Georgia/E10172.mat', 'Georgia/E10173.hea', 'Georgia/E10173.mat', 'Georgia/E10174.hea', 'Georgia/E10174.mat', 'Georgia/E10175.hea', 'Georgia/E10175.mat', 'Georgia/E10176.hea', 'Georgia/E10176.mat', 'Georgia/E10177.hea', 'Georgia/E10177.mat', 'Georgia/E10178.hea', 'Georgia/E10178.mat', 'Georgia/E10179.hea', 'Georgia/E10179.mat', 'Georgia/E10180.hea', 'Georgia/E10180.mat', 'Georgia/E10181.hea', 'Georgia/E10181.mat', 'Georgia/E10182.hea', 'Georgia/E10182.mat', 'Georgia/E10183.hea', 'Georgia/E10183.mat', 'Georgia/E10184.hea', 'Georgia/E10184.mat', 'Georgia/E10185.hea', 'Georgia/E10185.mat', 'Georgia/E10186.hea', 'Georgia/E10186.mat', 'Georgia/E10187.hea', 'Georgia/E10187.mat', 'Georgia/E10188.hea', 'Georgia/E10188.mat', 'Georgia/E10189.hea', 'Georgia/E10189.mat', 'Georgia/E10190.hea', 'Georgia/E10190.mat', 'Georgia/E10191.hea', 'Georgia/E10191.mat', 'Georgia/E10192.hea', 'Georgia/E10192.mat', 'Georgia/E10193.hea', 'Georgia/E10193.mat', 'Georgia/E10194.hea', 'Georgia/E10194.mat', 'Georgia/E10195.hea', 'Georgia/E10195.mat', 'Georgia/E10196.hea', 'Georgia/E10196.mat', 'Georgia/E10197.hea', 'Georgia/E10197.mat', 'Georgia/E10198.hea', 'Georgia/E10198.mat', 'Georgia/E10199.hea', 'Georgia/E10199.mat', 'Georgia/E10200.hea', 'Georgia/E10200.mat', 'Georgia/E10201.hea', 'Georgia/E10201.mat', 'Georgia/E10202.hea', 'Georgia/E10202.mat', 'Georgia/E10203.hea', 'Georgia/E10203.mat', 'Georgia/E10204.hea', 'Georgia/E10204.mat', 'Georgia/E10205.hea', 'Georgia/E10205.mat', 'Georgia/E10206.hea', 'Georgia/E10206.mat', 'Georgia/E10207.hea', 'Georgia/E10207.mat', 'Georgia/E10208.hea', 'Georgia/E10208.mat', 'Georgia/E10209.hea', 'Georgia/E10209.mat', 'Georgia/E10210.hea', 'Georgia/E10210.mat', 'Georgia/E10211.hea', 'Georgia/E10211.mat', 'Georgia/E10212.hea', 'Georgia/E10212.mat', 'Georgia/E10213.hea', 'Georgia/E10213.mat', 'Georgia/E10214.hea', 'Georgia/E10214.mat', 'Georgia/E10215.hea', 'Georgia/E10215.mat', 'Georgia/E10216.hea', 'Georgia/E10216.mat', 'Georgia/E10217.hea', 'Georgia/E10217.mat', 'Georgia/E10218.hea', 'Georgia/E10218.mat', 'Georgia/E10219.hea', 'Georgia/E10219.mat', 'Georgia/E10220.hea', 'Georgia/E10220.mat', 'Georgia/E10221.hea', 'Georgia/E10221.mat', 'Georgia/E10222.hea', 'Georgia/E10222.mat', 'Georgia/E10223.hea', 'Georgia/E10223.mat', 'Georgia/E10224.hea', 'Georgia/E10224.mat', 'Georgia/E10225.hea', 'Georgia/E10225.mat', 'Georgia/E10226.hea', 'Georgia/E10226.mat', 'Georgia/E10227.hea', 'Georgia/E10227.mat', 'Georgia/E10228.hea', 'Georgia/E10228.mat', 'Georgia/E10229.hea', 'Georgia/E10229.mat', 'Georgia/E10230.hea', 'Georgia/E10230.mat', 'Georgia/E10231.hea', 'Georgia/E10231.mat', 'Georgia/E10232.hea', 'Georgia/E10232.mat', 'Georgia/E10233.hea', 'Georgia/E10233.mat', 'Georgia/E10234.hea', 'Georgia/E10234.mat', 'Georgia/E10235.hea', 'Georgia/E10235.mat', 'Georgia/E10236.hea', 'Georgia/E10236.mat', 'Georgia/E10237.hea', 'Georgia/E10237.mat', 'Georgia/E10238.hea', 'Georgia/E10238.mat', 'Georgia/E10239.hea', 'Georgia/E10239.mat', 'Georgia/E10240.hea', 'Georgia/E10240.mat', 'Georgia/E10241.hea', 'Georgia/E10241.mat', 'Georgia/E10242.hea', 'Georgia/E10242.mat', 'Georgia/E10243.hea', 'Georgia/E10243.mat', 'Georgia/E10244.hea', 'Georgia/E10244.mat', 'Georgia/E10245.hea', 'Georgia/E10245.mat', 'Georgia/E10246.hea', 'Georgia/E10246.mat', 'Georgia/E10247.hea', 'Georgia/E10247.mat', 'Georgia/E10248.hea', 'Georgia/E10248.mat', 'Georgia/E10249.hea', 'Georgia/E10249.mat', 'Georgia/E10250.hea', 'Georgia/E10250.mat', 'Georgia/E10251.hea', 'Georgia/E10251.mat', 'Georgia/E10252.hea', 'Georgia/E10252.mat', 'Georgia/E10253.hea', 'Georgia/E10253.mat', 'Georgia/E10254.hea', 'Georgia/E10254.mat', 'Georgia/E10255.hea', 'Georgia/E10255.mat', 'Georgia/E10256.hea', 'Georgia/E10256.mat', 'Georgia/E10257.hea', 'Georgia/E10257.mat', 'Georgia/E10258.hea', 'Georgia/E10258.mat', 'Georgia/E10259.hea', 'Georgia/E10259.mat', 'Georgia/E10260.hea', 'Georgia/E10260.mat', 'Georgia/E10261.hea', 'Georgia/E10261.mat', 'Georgia/E10262.hea', 'Georgia/E10262.mat', 'Georgia/E10263.hea', 'Georgia/E10263.mat', 'Georgia/E10264.hea', 'Georgia/E10264.mat', 'Georgia/E10265.hea', 'Georgia/E10265.mat', 'Georgia/E10266.hea', 'Georgia/E10266.mat', 'Georgia/E10267.hea', 'Georgia/E10267.mat', 'Georgia/E10268.hea', 'Georgia/E10268.mat', 'Georgia/E10269.hea', 'Georgia/E10269.mat', 'Georgia/E10270.hea', 'Georgia/E10270.mat', 'Georgia/E10271.hea', 'Georgia/E10271.mat', 'Georgia/E10272.hea', 'Georgia/E10272.mat', 'Georgia/E10273.hea', 'Georgia/E10273.mat', 'Georgia/E10274.hea', 'Georgia/E10274.mat', 'Georgia/E10275.hea', 'Georgia/E10275.mat', 'Georgia/E10276.hea', 'Georgia/E10276.mat', 'Georgia/E10277.hea', 'Georgia/E10277.mat', 'Georgia/E10278.hea', 'Georgia/E10278.mat', 'Georgia/E10279.hea', 'Georgia/E10279.mat', 'Georgia/E10280.hea', 'Georgia/E10280.mat', 'Georgia/E10281.hea', 'Georgia/E10281.mat', 'Georgia/E10282.hea', 'Georgia/E10282.mat', 'Georgia/E10283.hea', 'Georgia/E10283.mat', 'Georgia/E10284.hea', 'Georgia/E10284.mat', 'Georgia/E10285.hea', 'Georgia/E10285.mat', 'Georgia/E10286.hea', 'Georgia/E10286.mat', 'Georgia/E10287.hea', 'Georgia/E10287.mat', 'Georgia/E10288.hea', 'Georgia/E10288.mat', 'Georgia/E10289.hea', 'Georgia/E10289.mat', 'Georgia/E10290.hea', 'Georgia/E10290.mat', 'Georgia/E10291.hea', 'Georgia/E10291.mat', 'Georgia/E10292.hea', 'Georgia/E10292.mat', 'Georgia/E10293.hea', 'Georgia/E10293.mat', 'Georgia/E10294.hea', 'Georgia/E10294.mat', 'Georgia/E10295.hea', 'Georgia/E10295.mat', 'Georgia/E10296.hea', 'Georgia/E10296.mat', 'Georgia/E10297.hea', 'Georgia/E10297.mat', 'Georgia/E10298.hea', 'Georgia/E10298.mat', 'Georgia/E10299.hea', 'Georgia/E10299.mat', 'Georgia/E10300.hea', 'Georgia/E10300.mat', 'Georgia/E10301.hea', 'Georgia/E10301.mat', 'Georgia/E10302.hea', 'Georgia/E10302.mat', 'Georgia/E10303.hea', 'Georgia/E10303.mat', 'Georgia/E10304.hea', 'Georgia/E10304.mat', 'Georgia/E10305.hea', 'Georgia/E10305.mat', 'Georgia/E10306.hea', 'Georgia/E10306.mat', 'Georgia/E10307.hea', 'Georgia/E10307.mat', 'Georgia/E10308.hea', 'Georgia/E10308.mat', 'Georgia/E10309.hea', 'Georgia/E10309.mat', 'Georgia/E10310.hea', 'Georgia/E10310.mat', 'Georgia/E10311.hea', 'Georgia/E10311.mat', 'Georgia/E10312.hea', 'Georgia/E10312.mat', 'Georgia/E10313.hea', 'Georgia/E10313.mat', 'Georgia/E10314.hea', 'Georgia/E10314.mat', 'Georgia/E10315.hea', 'Georgia/E10315.mat', 'Georgia/E10316.hea', 'Georgia/E10316.mat', 'Georgia/E10317.hea', 'Georgia/E10317.mat', 'Georgia/E10318.hea', 'Georgia/E10318.mat', 'Georgia/E10319.hea', 'Georgia/E10319.mat', 'Georgia/E10320.hea', 'Georgia/E10320.mat', 'Georgia/E10321.hea', 'Georgia/E10321.mat', 'Georgia/E10322.hea', 'Georgia/E10322.mat', 'Georgia/E10323.hea', 'Georgia/E10323.mat', 'Georgia/E10324.hea', 'Georgia/E10324.mat', 'Georgia/E10325.hea', 'Georgia/E10325.mat', 'Georgia/E10326.hea', 'Georgia/E10326.mat', 'Georgia/E10327.hea', 'Georgia/E10327.mat', 'Georgia/E10328.hea', 'Georgia/E10328.mat', 'Georgia/E10329.hea', 'Georgia/E10329.mat', 'Georgia/E10330.hea', 'Georgia/E10330.mat', 'Georgia/E10331.hea', 'Georgia/E10331.mat', 'Georgia/E10332.hea', 'Georgia/E10332.mat', 'Georgia/E10333.hea', 'Georgia/E10333.mat', 'Georgia/E10334.hea', 'Georgia/E10334.mat', 'Georgia/E10335.hea', 'Georgia/E10335.mat', 'Georgia/E10336.hea', 'Georgia/E10336.mat', 'Georgia/E10337.hea', 'Georgia/E10337.mat', 'Georgia/E10338.hea', 'Georgia/E10338.mat', 'Georgia/E10339.hea', 'Georgia/E10339.mat', 'Georgia/E10340.hea', 'Georgia/E10340.mat', 'Georgia/E10341.hea', 'Georgia/E10341.mat', 'Georgia/E10342.hea', 'Georgia/E10342.mat', 'Georgia/E10343.hea', 'Georgia/E10343.mat', 'Georgia/E10344.hea', 'Georgia/E10344.mat']
+2024-12-28 12:07:38,214 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:15:08,247 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:15:28,370 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:15:31,832 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 12:15:31,903 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 12:15:33,507 - backend_logger - INFO - EDA...
+2024-12-28 12:15:33,507 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 12:15:34,086 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 12:15:34,180 - backend_logger - INFO - EDA PART 1
+2024-12-28 12:15:34,199 - backend_logger - INFO - EDA PART 2
+2024-12-28 12:15:34,215 - backend_logger - INFO - EDA PART 3
+2024-12-28 12:15:34,218 - backend_logger - INFO - EDA PART 4
+2024-12-28 12:15:34,218 - backend_logger - INFO - EDA PART 5
+2024-12-28 12:15:34,225 - backend_logger - INFO - EDA PART 6
+2024-12-28 12:15:34,226 - backend_logger - INFO - EDA ended
+2024-12-28 12:15:34,230 - backend_logger - INFO - ...EDA
+2024-12-28 12:15:34,230 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 12:15:34,252 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:15:37,205 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:16:00,825 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 12:16:00,826 - backend_logger - INFO - Preprocess is started
+2024-12-28 12:16:00,830 - backend_logger - ERROR - Ошибка обучения модели: 'PosixPath' object has no attribute 'shape'
+2024-12-28 12:16:00,835 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:19:17,244 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:19:21,023 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 12:19:21,084 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 12:19:22,698 - backend_logger - INFO - EDA...
+2024-12-28 12:19:22,698 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 12:19:23,423 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 12:19:23,532 - backend_logger - INFO - EDA PART 1
+2024-12-28 12:19:23,551 - backend_logger - INFO - EDA PART 2
+2024-12-28 12:19:23,582 - backend_logger - INFO - EDA PART 3
+2024-12-28 12:19:23,586 - backend_logger - INFO - EDA PART 4
+2024-12-28 12:19:23,587 - backend_logger - INFO - EDA PART 5
+2024-12-28 12:19:23,600 - backend_logger - INFO - EDA PART 6
+2024-12-28 12:19:23,601 - backend_logger - INFO - EDA ended
+2024-12-28 12:19:23,638 - backend_logger - INFO - ...EDA
+2024-12-28 12:19:23,638 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 12:19:23,680 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:19:25,048 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:21:26,021 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:21:29,686 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 12:21:29,766 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 12:21:31,379 - backend_logger - INFO - EDA...
+2024-12-28 12:21:31,379 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 12:21:31,951 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 12:21:32,034 - backend_logger - INFO - EDA PART 1
+2024-12-28 12:21:32,043 - backend_logger - INFO - EDA PART 2
+2024-12-28 12:21:32,060 - backend_logger - INFO - EDA PART 3
+2024-12-28 12:21:32,062 - backend_logger - INFO - EDA PART 4
+2024-12-28 12:21:32,063 - backend_logger - INFO - EDA PART 5
+2024-12-28 12:21:32,070 - backend_logger - INFO - EDA PART 6
+2024-12-28 12:21:32,070 - backend_logger - INFO - EDA ended
+2024-12-28 12:21:32,090 - backend_logger - INFO - ...EDA
+2024-12-28 12:21:32,091 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 12:21:32,113 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:21:34,087 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 12:21:34,088 - backend_logger - INFO - Preprocess is started
+2024-12-28 12:21:34,092 - backend_logger - ERROR - Ошибка обучения модели: 'PosixPath' object has no attribute 'shape'
+2024-12-28 12:21:34,097 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:22:53,078 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:23:08,867 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:23:11,898 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:23:11,899 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:23:11,902 - backend_logger - INFO - EDA...
+2024-12-28 12:23:11,902 - backend_logger - INFO - EDA is_starting. path = data/test_ecg
+2024-12-28 12:23:11,904 - backend_logger - INFO - shape = (2, 23)
+2024-12-28 12:23:11,919 - backend_logger - INFO - EDA PART 1
+2024-12-28 12:23:11,921 - backend_logger - INFO - EDA PART 2
+2024-12-28 12:23:11,922 - backend_logger - INFO - EDA PART 3
+2024-12-28 12:23:11,923 - backend_logger - INFO - EDA PART 4
+2024-12-28 12:23:11,923 - backend_logger - INFO - EDA PART 5
+2024-12-28 12:23:11,927 - backend_logger - INFO - EDA PART 6
+2024-12-28 12:23:11,927 - backend_logger - INFO - EDA ended
+2024-12-28 12:23:11,927 - backend_logger - INFO - ...EDA
+2024-12-28 12:23:11,927 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:23:11,936 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:23:14,617 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 12:23:14,619 - backend_logger - INFO - Preprocess is started
+2024-12-28 12:23:14,623 - backend_logger - ERROR - Ошибка обучения модели: 'PosixPath' object has no attribute 'shape'
+2024-12-28 12:23:14,627 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:24:20,867 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:24:53,582 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:25:05,972 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 12:25:06,048 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 12:25:07,652 - backend_logger - INFO - EDA...
+2024-12-28 12:25:07,652 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 12:25:08,240 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 12:25:08,333 - backend_logger - INFO - EDA PART 1
+2024-12-28 12:25:08,351 - backend_logger - INFO - EDA PART 2
+2024-12-28 12:25:08,369 - backend_logger - INFO - EDA PART 3
+2024-12-28 12:25:08,371 - backend_logger - INFO - EDA PART 4
+2024-12-28 12:25:08,372 - backend_logger - INFO - EDA PART 5
+2024-12-28 12:25:08,379 - backend_logger - INFO - EDA PART 6
+2024-12-28 12:25:08,379 - backend_logger - INFO - EDA ended
+2024-12-28 12:25:08,412 - backend_logger - INFO - ...EDA
+2024-12-28 12:25:08,413 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 12:25:08,437 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:25:15,133 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 12:25:15,709 - backend_logger - INFO - Preprocess is started
+2024-12-28 12:26:29,415 - backend_logger - INFO - Preprocess is finished. Start fitting
+2024-12-28 12:26:32,954 - backend_logger - INFO - Fitting is finished. Start predicting
+2024-12-28 12:26:32,982 - backend_logger - INFO - Predicting is finished. Start count metrics
+2024-12-28 12:26:41,792 - backend_logger - INFO - Модель SVC успешно обучена. Эксперимент: 15_26_28_12_2024_e6670eba
+2024-12-28 12:26:41,797 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:27:34,613 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:27:43,505 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:27:44,821 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:27:44,829 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:27:44,830 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:27:44,832 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:33:17,831 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:33:25,771 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:33:30,095 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:33:41,661 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:33:42,664 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:33:42,675 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:33:42,676 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:33:42,687 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:40:49,574 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:40:59,988 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:41:00,946 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:41:00,960 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:41:00,961 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:41:00,974 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:42:26,478 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:42:30,363 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:42:31,318 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:42:37,260 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:42:38,408 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:42:38,421 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:42:38,422 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:42:38,435 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:43:45,637 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:43:49,972 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:43:51,186 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:43:51,196 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:43:51,196 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:43:51,208 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:55:13,619 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:55:18,132 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:55:19,513 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:55:19,529 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:55:19,530 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:55:19,541 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 12:58:10,236 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:58:13,621 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:58:14,869 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 12:58:14,886 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 12:58:14,886 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 12:58:14,898 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:00:25,458 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:00:31,169 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:00:32,354 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:00:32,368 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:00:32,369 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:00:32,380 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:06:40,170 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:06:46,593 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:06:47,504 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:06:49,919 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:06:51,231 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:06:51,242 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:06:51,243 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:06:51,254 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:14:21,792 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:14:25,697 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:14:26,724 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:14:26,740 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:14:26,740 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:14:26,744 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:28:19,702 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:28:25,407 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:28:26,471 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:28:26,487 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:28:26,488 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:28:26,499 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:30:09,338 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:30:14,369 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:30:15,489 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:30:15,502 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:30:15,503 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:30:15,506 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:31:20,955 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:31:27,389 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:31:28,692 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:31:28,701 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:31:28,701 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:31:28,713 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:42:09,127 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:12,552 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:42:12,552 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:42:12,558 - backend_logger - INFO - EDA...
+2024-12-28 13:42:12,558 - backend_logger - INFO - EDA is_starting. path = data/test_ecg
+2024-12-28 13:42:12,562 - backend_logger - INFO - shape = (2, 23)
+2024-12-28 13:42:12,581 - backend_logger - INFO - EDA PART 1
+2024-12-28 13:42:12,584 - backend_logger - INFO - EDA PART 2
+2024-12-28 13:42:12,585 - backend_logger - INFO - EDA PART 3
+2024-12-28 13:42:12,586 - backend_logger - INFO - EDA PART 4
+2024-12-28 13:42:12,587 - backend_logger - INFO - EDA PART 5
+2024-12-28 13:42:12,593 - backend_logger - INFO - EDA PART 6
+2024-12-28 13:42:12,593 - backend_logger - INFO - EDA ended
+2024-12-28 13:42:12,594 - backend_logger - INFO - ...EDA
+2024-12-28 13:42:12,594 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 13:42:12,602 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:14,003 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:18,251 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:20,989 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:32,790 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:44,807 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:46,131 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:42:51,036 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 13:42:51,092 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 13:42:52,691 - backend_logger - INFO - EDA...
+2024-12-28 13:42:52,691 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 13:42:53,266 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 13:42:53,356 - backend_logger - INFO - EDA PART 1
+2024-12-28 13:42:53,364 - backend_logger - INFO - EDA PART 2
+2024-12-28 13:42:53,381 - backend_logger - INFO - EDA PART 3
+2024-12-28 13:42:53,383 - backend_logger - INFO - EDA PART 4
+2024-12-28 13:42:53,384 - backend_logger - INFO - EDA PART 5
+2024-12-28 13:42:53,391 - backend_logger - INFO - EDA PART 6
+2024-12-28 13:42:53,391 - backend_logger - INFO - EDA ended
+2024-12-28 13:42:53,416 - backend_logger - INFO - ...EDA
+2024-12-28 13:42:53,416 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 13:42:53,436 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:43:01,271 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:43:20,260 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:43:22,868 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 13:43:23,443 - backend_logger - INFO - Preprocess is started
+2024-12-28 13:44:36,614 - backend_logger - INFO - Preprocess is finished. Start fitting
+2024-12-28 13:44:36,636 - backend_logger - INFO - Fitting is finished. Start predicting
+2024-12-28 13:44:36,639 - backend_logger - INFO - Predicting is finished. Start count metrics
+2024-12-28 13:44:36,875 - backend_logger - INFO - Модель Logistic Regression успешно обучена. Эксперимент: 16_44_28_12_2024_324a2c62
+2024-12-28 13:44:36,884 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:45:04,830 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:45:15,459 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 13:45:15,465 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 13:45:15,465 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 13:45:15,468 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:25:52,789 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:26:14,938 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:27:06,781 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:27:08,279 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:27:08,307 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:27:08,309 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:27:08,406 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:27:45,041 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 16:27:50,036 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 16:28:20,069 - backend_logger - INFO - EDA...
+2024-12-28 16:28:20,072 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 16:28:36,561 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 16:28:36,654 - backend_logger - INFO - EDA PART 1
+2024-12-28 16:28:36,697 - backend_logger - INFO - EDA PART 2
+2024-12-28 16:28:36,756 - backend_logger - INFO - EDA PART 3
+2024-12-28 16:28:36,766 - backend_logger - INFO - EDA PART 4
+2024-12-28 16:28:36,778 - backend_logger - INFO - EDA PART 5
+2024-12-28 16:28:36,801 - backend_logger - INFO - EDA PART 6
+2024-12-28 16:28:36,811 - backend_logger - INFO - EDA ended
+2024-12-28 16:28:36,913 - backend_logger - INFO - ...EDA
+2024-12-28 16:28:36,916 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 16:28:36,970 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:28:37,001 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:28:37,034 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:28:37,137 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:30:56,009 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:30:56,034 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:30:56,062 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:30:56,132 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:51:46,324 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:51:46,352 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:51:46,381 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:51:46,450 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:52:01,178 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:52:01,207 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:52:01,244 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:52:01,319 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:52:10,902 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:52:10,927 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:52:10,951 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:52:11,022 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:52:16,836 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:52:16,862 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:52:16,886 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:52:16,950 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:52:27,977 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:52:30,480 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 16:52:30,506 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 16:52:30,531 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 16:52:30,591 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 16:52:41,908 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 16:53:00,119 - backend_logger - INFO - Preprocess is started
+2024-12-28 16:55:26,365 - backend_logger - INFO - Preprocess is finished. Start fitting
+2024-12-28 16:56:54,415 - backend_logger - INFO - Fitting is finished. Start predicting
+2024-12-28 16:56:54,433 - backend_logger - INFO - Predicting is finished. Start count metrics
+2024-12-28 17:07:57,685 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:26:11,446 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:26:34,630 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:26:48,718 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 17:26:55,444 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 17:27:36,310 - backend_logger - INFO - EDA...
+2024-12-28 17:27:36,313 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 17:27:59,059 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 17:27:59,406 - backend_logger - INFO - EDA PART 1
+2024-12-28 17:27:59,446 - backend_logger - INFO - EDA PART 2
+2024-12-28 17:27:59,504 - backend_logger - INFO - EDA PART 3
+2024-12-28 17:27:59,514 - backend_logger - INFO - EDA PART 4
+2024-12-28 17:27:59,524 - backend_logger - INFO - EDA PART 5
+2024-12-28 17:27:59,553 - backend_logger - INFO - EDA PART 6
+2024-12-28 17:27:59,562 - backend_logger - INFO - EDA ended
+2024-12-28 17:27:59,609 - backend_logger - INFO - ...EDA
+2024-12-28 17:27:59,611 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 17:27:59,683 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:30:23,049 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:32:01,778 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:32:16,072 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:32:22,738 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:32:32,723 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:32:42,032 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:32:46,587 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:32:46,615 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 17:32:46,651 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 17:32:46,735 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 17:33:15,140 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-28 17:33:37,751 - backend_logger - INFO - Preprocess is started
+2024-12-28 17:36:17,664 - backend_logger - INFO - Preprocess is finished. Start fitting
+2024-12-28 17:36:17,740 - backend_logger - INFO - Fitting is finished. Start predicting
+2024-12-28 17:36:17,750 - backend_logger - INFO - Predicting is finished. Start count metrics
+2024-12-28 17:36:18,642 - backend_logger - INFO - Модель Logistic Regression успешно обучена. Эксперимент: 20_36_28_12_2024_ddbce06d
+2024-12-28 17:36:18,683 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:36:18,712 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 17:36:18,743 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 17:36:18,897 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 17:38:03,458 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:38:03,486 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 17:38:03,524 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 17:38:03,610 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 17:38:25,040 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:38:25,077 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 17:38:25,121 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 17:38:25,229 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 17:38:30,945 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:38:30,982 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 17:38:31,018 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 17:38:31,116 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 17:39:24,965 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:39:25,001 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 17:39:25,046 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 17:39:25,137 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 17:39:30,422 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:39:30,456 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2024-12-28 17:39:30,489 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2024-12-28 17:39:30,581 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2024-12-28 17:47:17,736 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:47:22,857 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 17:47:24,669 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 17:47:30,946 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 17:48:11,048 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 17:53:09,197 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 18:42:19,030 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 18:42:35,711 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-28 18:42:42,484 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-28 18:43:17,607 - backend_logger - INFO - EDA...
+2024-12-28 18:43:17,609 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-28 18:43:37,515 - backend_logger - INFO - shape = (1538, 23)
+2024-12-28 18:43:37,870 - backend_logger - INFO - EDA PART 1
+2024-12-28 18:43:37,904 - backend_logger - INFO - EDA PART 2
+2024-12-28 18:43:37,970 - backend_logger - INFO - EDA PART 3
+2024-12-28 18:43:37,976 - backend_logger - INFO - EDA PART 4
+2024-12-28 18:43:37,988 - backend_logger - INFO - EDA PART 5
+2024-12-28 18:43:38,009 - backend_logger - INFO - EDA PART 6
+2024-12-28 18:43:38,016 - backend_logger - INFO - EDA ended
+2024-12-28 18:43:38,103 - backend_logger - INFO - ...EDA
+2024-12-28 18:43:38,105 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-28 18:43:38,157 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-28 22:39:04,531 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:16:49,752 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:18:33,700 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:19:17,525 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:19:19,460 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:19:21,516 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:21:11,599 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:21:16,650 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:22:23,334 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 13:22:23,393 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 13:22:25,002 - backend_logger - INFO - EDA...
+2024-12-29 13:22:25,002 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 13:22:25,568 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 13:22:25,656 - backend_logger - INFO - EDA PART 1
+2024-12-29 13:22:25,666 - backend_logger - INFO - EDA PART 2
+2024-12-29 13:22:25,683 - backend_logger - INFO - EDA PART 3
+2024-12-29 13:22:25,685 - backend_logger - INFO - EDA PART 4
+2024-12-29 13:22:25,685 - backend_logger - INFO - EDA PART 5
+2024-12-29 13:22:25,693 - backend_logger - INFO - EDA PART 6
+2024-12-29 13:22:25,693 - backend_logger - INFO - EDA ended
+2024-12-29 13:22:25,712 - backend_logger - INFO - ...EDA
+2024-12-29 13:22:25,712 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 13:22:25,758 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:22:29,039 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:22:33,912 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:22:36,686 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:22:37,042 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:22:38,066 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-29 13:22:38,620 - backend_logger - INFO - Preprocess is started
+2024-12-29 13:23:51,481 - backend_logger - INFO - Preprocess is finished. Start fitting
+2024-12-29 13:23:51,481 - backend_logger - ERROR - Ошибка обучения модели: Only 'saga' solver supports elasticnet penalty, got solver=liblinear.
+2024-12-29 13:23:51,506 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:24:38,548 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:24:39,442 - backend_logger - INFO - Converting_mat_files_to_df...
+2024-12-29 13:24:39,993 - backend_logger - INFO - Preprocess is started
+2024-12-29 13:25:52,665 - backend_logger - INFO - Preprocess is finished. Start fitting
+2024-12-29 13:26:12,576 - backend_logger - INFO - Fitting is finished. Start predicting
+2024-12-29 13:26:12,586 - backend_logger - INFO - Predicting is finished. Start count metrics
+2024-12-29 13:27:29,554 - backend_logger - INFO - Модель Logistic Regression успешно обучена. Эксперимент: 16_27_29_12_2024_4d59526c
+2024-12-29 13:27:29,578 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:28:39,144 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:28:43,392 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:31:32,318 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:31:37,648 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:37:28,103 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:37:32,701 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:39:16,803 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:48:23,900 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:53:18,248 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 13:53:18,294 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 13:53:19,896 - backend_logger - INFO - EDA...
+2024-12-29 13:53:19,896 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 13:53:20,474 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 13:53:20,577 - backend_logger - INFO - EDA PART 1
+2024-12-29 13:53:20,586 - backend_logger - INFO - EDA PART 2
+2024-12-29 13:53:20,603 - backend_logger - INFO - EDA PART 3
+2024-12-29 13:53:20,606 - backend_logger - INFO - EDA PART 4
+2024-12-29 13:53:20,606 - backend_logger - INFO - EDA PART 5
+2024-12-29 13:53:20,614 - backend_logger - INFO - EDA PART 6
+2024-12-29 13:53:20,614 - backend_logger - INFO - EDA ended
+2024-12-29 13:53:20,637 - backend_logger - INFO - ...EDA
+2024-12-29 13:53:20,637 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 13:53:20,692 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:53:25,483 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 13:53:27,036 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 13:59:44,832 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:01:57,406 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:02:01,018 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:02:01,076 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:02:02,676 - backend_logger - INFO - EDA...
+2024-12-29 14:02:02,676 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:02:03,256 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:02:03,349 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:02:03,368 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:02:03,384 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:02:03,387 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:02:03,387 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:02:03,394 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:02:03,395 - backend_logger - INFO - EDA ended
+2024-12-29 14:02:03,402 - backend_logger - INFO - ...EDA
+2024-12-29 14:02:03,402 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:02:03,476 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:02:05,178 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:02:06,427 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:04:28,666 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:04:32,759 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:04:32,815 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:04:34,584 - backend_logger - INFO - EDA...
+2024-12-29 14:04:34,584 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:04:35,165 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:04:35,257 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:04:35,275 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:04:35,292 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:04:35,295 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:04:35,295 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:04:35,302 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:04:35,303 - backend_logger - INFO - EDA ended
+2024-12-29 14:04:35,326 - backend_logger - INFO - ...EDA
+2024-12-29 14:04:35,327 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:04:35,380 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:04:36,530 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:04:37,372 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:06:54,148 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:06:58,555 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:06:58,617 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:07:00,302 - backend_logger - INFO - EDA...
+2024-12-29 14:07:00,302 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:07:01,094 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:07:01,187 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:07:01,206 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:07:01,223 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:07:01,225 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:07:01,225 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:07:01,232 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:07:01,233 - backend_logger - INFO - EDA ended
+2024-12-29 14:07:01,255 - backend_logger - INFO - ...EDA
+2024-12-29 14:07:01,255 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:07:01,317 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:07:02,359 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:07:03,214 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:09:06,359 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:09:10,977 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:09:11,052 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:09:12,653 - backend_logger - INFO - EDA...
+2024-12-29 14:09:12,653 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:09:13,225 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:09:13,307 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:09:13,316 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:09:13,333 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:09:13,335 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:09:13,336 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:09:13,343 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:09:13,344 - backend_logger - INFO - EDA ended
+2024-12-29 14:09:13,365 - backend_logger - INFO - ...EDA
+2024-12-29 14:09:13,365 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:09:13,416 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:09:14,708 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:09:15,522 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:10:39,167 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:10:45,985 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:10:49,358 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:10:49,413 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:10:51,100 - backend_logger - INFO - EDA...
+2024-12-29 14:10:51,100 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:10:51,953 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:10:52,068 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:10:52,078 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:10:52,095 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:10:52,098 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:10:52,098 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:10:52,106 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:10:52,106 - backend_logger - INFO - EDA ended
+2024-12-29 14:10:52,113 - backend_logger - INFO - ...EDA
+2024-12-29 14:10:52,113 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:10:52,180 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:10:53,784 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:10:54,652 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:11:52,789 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:11:56,240 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:11:56,303 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:11:58,063 - backend_logger - INFO - EDA...
+2024-12-29 14:11:58,063 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:11:58,647 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:11:58,745 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:11:58,754 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:11:58,771 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:11:58,774 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:11:58,774 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:11:58,781 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:11:58,782 - backend_logger - INFO - EDA ended
+2024-12-29 14:11:58,798 - backend_logger - INFO - ...EDA
+2024-12-29 14:11:58,798 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:11:58,851 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:12:01,306 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:12:02,143 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:14:19,607 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:14:24,966 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:14:25,044 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:14:26,648 - backend_logger - INFO - EDA...
+2024-12-29 14:14:26,649 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:14:27,234 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:14:27,334 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:14:27,343 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:14:27,360 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:14:27,363 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:14:27,363 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:14:27,371 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:14:27,371 - backend_logger - INFO - EDA ended
+2024-12-29 14:14:27,395 - backend_logger - INFO - ...EDA
+2024-12-29 14:14:27,395 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:14:27,452 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:14:28,408 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:14:29,315 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:23:23,453 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:23:27,069 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:23:27,145 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:23:28,745 - backend_logger - INFO - EDA...
+2024-12-29 14:23:28,745 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:23:29,233 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:23:29,270 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:23:29,279 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:23:29,295 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:23:29,297 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:23:29,298 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:23:29,305 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:23:29,305 - backend_logger - INFO - EDA ended
+2024-12-29 14:23:29,328 - backend_logger - INFO - ...EDA
+2024-12-29 14:23:29,328 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:23:29,380 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:23:30,602 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:23:31,366 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:25:35,651 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:25:39,671 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:25:39,747 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:25:41,344 - backend_logger - INFO - EDA...
+2024-12-29 14:25:41,344 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:25:41,838 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:25:41,874 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:25:41,882 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:25:41,899 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:25:41,901 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:25:41,901 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:25:41,908 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:25:41,909 - backend_logger - INFO - EDA ended
+2024-12-29 14:25:41,932 - backend_logger - INFO - ...EDA
+2024-12-29 14:25:41,932 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:25:41,985 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:25:42,984 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:25:43,753 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:26:46,144 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:26:49,061 - backend_logger - INFO - Файл middle-5-6-fastapi-akiltrebreg-akiltrebreg-patch-2.zip успешно загружен
+2024-12-29 14:26:49,061 - backend_logger - INFO - data/middle-5-6-fastapi-akiltrebreg-akiltrebreg-patch-2.zip|data/middle-5-6-fastapi-akiltrebreg-akiltrebreg-patch-2
+2024-12-29 14:26:49,063 - backend_logger - INFO - EDA...
+2024-12-29 14:26:49,063 - backend_logger - INFO - EDA is_starting. path = data/middle-5-6-fastapi-akiltrebreg-akiltrebreg-patch-2
+2024-12-29 14:26:49,063 - backend_logger - INFO - shape = (0, 23)
+2024-12-29 14:26:49,073 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:26:49,074 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:26:49,075 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:26:49,076 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:26:49,076 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:26:49,078 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:26:49,079 - backend_logger - INFO - EDA ended
+2024-12-29 14:26:49,079 - backend_logger - INFO - ...EDA
+2024-12-29 14:26:49,079 - backend_logger - INFO - Файл middle-5-6-fastapi-akiltrebreg-akiltrebreg-patch-2.zip успешно разархивирован
+2024-12-29 14:26:49,118 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:26:50,388 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:26:54,360 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:26:56,729 - backend_logger - INFO - FIND_EDA... PATH =/app/data/middle-5-6-fastapi-akiltrebreg-akiltrebreg-patch-2_eda
+2024-12-29 14:27:47,690 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:27:51,157 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:27:51,240 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:27:53,022 - backend_logger - INFO - EDA...
+2024-12-29 14:27:53,022 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:27:53,715 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:27:53,802 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:27:53,821 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:27:53,838 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:27:53,841 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:27:53,841 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:27:53,848 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:27:53,849 - backend_logger - INFO - EDA ended
+2024-12-29 14:27:53,865 - backend_logger - INFO - ...EDA
+2024-12-29 14:27:53,865 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:27:53,922 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:27:54,727 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:27:55,684 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:34:08,718 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:34:12,637 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:34:12,710 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:34:14,318 - backend_logger - INFO - EDA...
+2024-12-29 14:34:14,318 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:34:14,905 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:34:15,015 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:34:15,024 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:34:15,041 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:34:15,043 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:34:15,044 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:34:15,052 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:34:15,052 - backend_logger - INFO - EDA ended
+2024-12-29 14:34:15,056 - backend_logger - INFO - ...EDA
+2024-12-29 14:34:15,056 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:34:15,107 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:34:16,477 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:34:17,425 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:38:41,693 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:38:46,225 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:38:46,275 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:38:47,891 - backend_logger - INFO - EDA...
+2024-12-29 14:38:47,891 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:38:48,463 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:38:48,555 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:38:48,574 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:38:48,590 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:38:48,593 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:38:48,593 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:38:48,600 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:38:48,601 - backend_logger - INFO - EDA ended
+2024-12-29 14:38:48,615 - backend_logger - INFO - ...EDA
+2024-12-29 14:38:48,615 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:38:48,668 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:38:50,004 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:38:50,281 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:38:59,634 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:42:19,536 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:42:23,424 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2024-12-29 14:42:23,501 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2024-12-29 14:42:25,107 - backend_logger - INFO - EDA...
+2024-12-29 14:42:25,107 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2024-12-29 14:42:25,687 - backend_logger - INFO - shape = (1538, 23)
+2024-12-29 14:42:25,779 - backend_logger - INFO - EDA PART 1
+2024-12-29 14:42:25,798 - backend_logger - INFO - EDA PART 2
+2024-12-29 14:42:25,815 - backend_logger - INFO - EDA PART 3
+2024-12-29 14:42:25,817 - backend_logger - INFO - EDA PART 4
+2024-12-29 14:42:25,818 - backend_logger - INFO - EDA PART 5
+2024-12-29 14:42:25,825 - backend_logger - INFO - EDA PART 6
+2024-12-29 14:42:25,825 - backend_logger - INFO - EDA ended
+2024-12-29 14:42:25,843 - backend_logger - INFO - ...EDA
+2024-12-29 14:42:25,843 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2024-12-29 14:42:25,899 - backend_logger - INFO - Запрошен список экспериментов
+2024-12-29 14:42:27,819 - backend_logger - INFO - FIND_EDA... PATH =/app/data/Georgia_eda
+2024-12-29 14:42:28,083 - backend_logger - INFO - Запрошен список экспериментов

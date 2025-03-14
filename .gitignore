@@ -1,0 +1,5 @@
+.idea
+/backend/data
+/backend/experiments
+*.log
+/logstash/sincedb/*.sincedb

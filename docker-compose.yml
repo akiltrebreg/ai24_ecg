@@ -1,0 +1,34 @@
+services:
+  backend:
+    build: ./backend
+    container_name: backend_container
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./backend/data:/app/data
+      - ./backend/logs:/app/logs
+      - ./backend/experiments:/app/experiments
+    environment:
+      - LOG_LEVEL=INFO
+    depends_on:
+      - logstash
+
+  frontend:
+    build: ./frontend
+    container_name: frontend_container
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./frontend/logs:/app/logs
+    depends_on:
+      - backend
+  logstash:
+    build: ./logstash
+    container_name: logstash_container
+    volumes:
+      - ./logstash/sincedb:/usr/share/logstash/sincedb
+      - ./backend/logs:/backend/logs
+      - ./frontend/logs:/frontend/logs
+      - ./processed_logs:/usr/share/processed_logs
+    ports:
+      - "5000:5000"
