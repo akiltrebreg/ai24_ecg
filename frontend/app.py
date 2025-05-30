@@ -270,8 +270,8 @@ st.divider()
 st.subheader("Обучение модели")
 if uploaded_file is not None and st.session_state["dataset_name"] is not None:
     st.write("Выберите модель:")
-    model_type = st.selectbox("Модель", ["SVC", "Logistic Regression"])
-
+    # model_type = st.selectbox("Модель", ["SVC", "Logistic Regression", "CNN"])
+    model_type = st.selectbox("Модель", ["CNN"])
     params = {}
     if model_type == "SVC":
         # Гиперпараметры для SVC
@@ -302,7 +302,13 @@ if uploaded_file is not None and st.session_state["dataset_name"] is not None:
             params["l1_ratio"] = st.slider("L1 Ratio", 0.0, 1.0, 0.5)
         else:
             params["l1_ratio"] = None  # Если penalty != elasticnet, None
+    elif model_type == 'CNN':
 
+        params["epochs"] = st.selectbox("Epochs", [1, 5, 10, 15, 20, 30, 50])
+        params['lr'] = st.selectbox("Learning rate", [1e-5, 1e-4, 1e-3])
+        params['average'] = st.selectbox("Average", ["weighted",
+                                                   "macro",
+                                                   "micro"])
     # Кнопка для обучения модели
     if st.button("Обучить модель"):
         logger.info("Запуск обучения модели %s с параметрами %s",
@@ -398,9 +404,10 @@ if exps_resp.status_code == 200:
             logger.info("Предсказание завершено успешно.")
             result = response.json()
             disease_names = result["predicts"]
-            disease_names_str = ', '.join(disease_names)
-            st.success(f"Ваш прогноз: {disease_names_str}. "
-                       f"Требуется консультация с врачом.")
+            for human in disease_names:
+                disease_names_str = ', '.join(human)
+                st.success(f"Ваш прогноз: {disease_names_str}. "
+                           f"Требуется консультация с врачом.")
         else:
             logger.error("Ошибка при выполнении предсказания: %s",
                          response.text)
