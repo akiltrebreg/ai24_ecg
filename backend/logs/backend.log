@@ -1676,3 +1676,82 @@
 2025-05-30 20:12:23,338 - backend_logger - INFO - data/test_ecg_val.zip|data/test_ecg_val
 2025-05-30 20:12:23,375 - backend_logger - INFO - Файл test_ecg_val.zip успешно разархивирован
 2025-05-30 20:12:23,543 - backend_logger - INFO - [['t wave abnormal', 'nonspecific st t abnormality', 'sinus rhythm', 'left ventricular hypertrophy', 'lateral ischaemia', 'left axis deviation', 'st interval abnormal', 'atrial fibrillation', 'anterior ischemia', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'st elevation', 'early repolarization'], ['nonspecific st t abnormality', 'sinus rhythm', 'left ventricular hypertrophy', 'lateral ischaemia', 'left axis deviation', 'st interval abnormal', 'inferior ischaemia', 'sinus arrhythmia', 'anterior ischemia', 'right bundle branch block', 'incomplete right bundle branch block', 'ventricular ectopics', 'left bundle branch block', 'early repolarization']]
+2025-05-31 13:13:08,773 - backend_logger - INFO - Запрошен список экспериментов
+2025-05-31 13:14:37,055 - backend_logger - INFO - Файл Georgia.zip успешно загружен
+2025-05-31 13:14:37,056 - backend_logger - INFO - data/Georgia.zip|data/Georgia
+2025-05-31 13:14:38,733 - backend_logger - INFO - EDA...
+2025-05-31 13:14:38,733 - backend_logger - INFO - EDA is_starting. path = data/Georgia
+2025-05-31 13:14:39,340 - backend_logger - INFO - shape = (1538, 23)
+2025-05-31 13:14:39,390 - backend_logger - INFO - EDA PART 1
+2025-05-31 13:14:39,400 - backend_logger - INFO - EDA PART 2
+2025-05-31 13:14:39,418 - backend_logger - INFO - EDA PART 3
+2025-05-31 13:14:39,421 - backend_logger - INFO - EDA PART 4
+2025-05-31 13:14:39,422 - backend_logger - INFO - EDA PART 5
+2025-05-31 13:14:39,429 - backend_logger - INFO - EDA PART 6
+2025-05-31 13:14:39,429 - backend_logger - INFO - EDA ended
+2025-05-31 13:14:39,442 - backend_logger - INFO - ...EDA
+2025-05-31 13:14:39,443 - backend_logger - INFO - Файл Georgia.zip успешно разархивирован
+2025-05-31 13:14:39,465 - backend_logger - INFO - Запрошен список экспериментов
+2025-05-31 13:14:49,528 - backend_logger - INFO - Converting_mat_files_to_df...
+2025-05-31 13:14:50,124 - backend_logger - INFO - Preprocess is started
+2025-05-31 13:14:50,142 - backend_logger - INFO - Preprocess is finished. Start fitting
+2025-05-31 13:15:17,712 - backend_logger - INFO - Epoch 1/1
+2025-05-31 13:15:17,712 - backend_logger - INFO - Fitting is finished. Start predicting
+2025-05-31 13:15:18,688 - backend_logger - INFO - Predicting is finished. Start count metrics
+2025-05-31 13:15:18,719 - backend_logger - INFO - Модель CNN успешно обучена. Эксперимент: 16_14_31_05_2025_bdf7efeb
+2025-05-31 13:15:18,741 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-05-31 13:15:18,743 - backend_logger - INFO - Запрошен список экспериментов
+2025-05-31 13:17:54,981 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-05-31 13:17:54,983 - backend_logger - INFO - Запрошен список экспериментов
+2025-05-31 13:17:56,307 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-05-31 13:17:56,308 - backend_logger - INFO - Запрошен список экспериментов
+2025-05-31 13:17:56,317 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2025-05-31 13:17:56,317 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2025-05-31 13:17:56,320 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2025-05-31 13:17:56,407 - backend_logger - INFO - [['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'st interval abnormal', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block'], ['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block']]
+2025-06-01 14:56:11,704 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 14:56:11,710 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 14:59:40,844 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 14:59:40,847 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:38:13,938 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:38:13,943 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:38:35,523 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:38:35,526 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:38:37,002 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:38:37,005 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:38:37,023 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2025-06-01 15:38:37,024 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2025-06-01 15:38:37,028 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2025-06-01 15:38:37,170 - backend_logger - INFO - [['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'st interval abnormal', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block'], ['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block']]
+2025-06-01 15:45:36,608 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:45:36,611 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:45:48,961 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:45:48,964 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:45:48,975 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2025-06-01 15:45:48,976 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2025-06-01 15:45:48,979 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2025-06-01 15:45:49,084 - backend_logger - INFO - [['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'st interval abnormal', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block'], ['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block']]
+2025-06-01 15:46:14,382 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:46:14,386 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:46:23,650 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:46:23,652 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:46:23,662 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2025-06-01 15:46:23,663 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2025-06-01 15:46:23,667 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2025-06-01 15:46:23,808 - backend_logger - INFO - [['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'st interval abnormal', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block'], ['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block']]
+2025-06-01 15:50:27,258 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:50:27,261 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:50:31,196 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:50:31,199 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:50:31,208 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2025-06-01 15:50:31,209 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2025-06-01 15:50:31,212 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2025-06-01 15:50:31,306 - backend_logger - INFO - [['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'st interval abnormal', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block'], ['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block']]
+2025-06-01 15:51:02,046 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:51:02,051 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:51:13,463 - backend_logger - INFO - experiments/16_14_31_05_2025_39f0e116/hyperparams.hp
+2025-06-01 15:51:13,466 - backend_logger - INFO - Запрошен список экспериментов
+2025-06-01 15:51:13,477 - backend_logger - INFO - Файл test_ecg.zip успешно загружен
+2025-06-01 15:51:13,478 - backend_logger - INFO - data/test_ecg.zip|data/test_ecg
+2025-06-01 15:51:13,481 - backend_logger - INFO - Файл test_ecg.zip успешно разархивирован
+2025-06-01 15:51:13,616 - backend_logger - INFO - [['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'st interval abnormal', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block'], ['sinus bradycardia', 'sinus rhythm', 'prolonged qt interval', 'sinus tachycardia', 'lateral ischaemia', '1st degree av block', 'premature atrial contraction', 'qwave abnormal', 'inferior ischaemia', 'right bundle branch block', 'incomplete right bundle branch block', 'low qrs voltages', 'ventricular ectopics', 'left bundle branch block', 'left anterior fascicular block']]
