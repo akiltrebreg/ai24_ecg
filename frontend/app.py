@@ -1,5 +1,6 @@
 import warnings
 import requests
+from requests.exceptions import ConnectionError, Timeout
 import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
@@ -270,8 +271,8 @@ st.divider()
 st.subheader("Обучение модели")
 if uploaded_file is not None and st.session_state["dataset_name"] is not None:
     st.write("Выберите модель:")
-    model_type = st.selectbox("Модель", ["SVC", "Logistic Regression"])
-
+    # model_type = st.selectbox("Модель", ["SVC", "Logistic Regression", "CNN"])
+    model_type = st.selectbox("Модель", ["CNN"])
     params = {}
     if model_type == "SVC":
         # Гиперпараметры для SVC
@@ -302,7 +303,13 @@ if uploaded_file is not None and st.session_state["dataset_name"] is not None:
             params["l1_ratio"] = st.slider("L1 Ratio", 0.0, 1.0, 0.5)
         else:
             params["l1_ratio"] = None  # Если penalty != elasticnet, None
+    elif model_type == 'CNN':
 
+        params["epochs"] = st.selectbox("Epochs", [1, 5, 10, 15, 20, 30, 50])
+        params['lr'] = st.selectbox("Learning rate", [1e-5, 1e-4, 1e-3])
+        params['average'] = st.selectbox("Average", ["weighted",
+                                                   "macro",
+                                                   "micro"])
     # Кнопка для обучения модели
     if st.button("Обучить модель"):
         logger.info("Запуск обучения модели %s с параметрами %s",
@@ -343,26 +350,27 @@ if "prediction_triggered" not in st.session_state:
 
 st.divider()
 st.subheader("Прогноз по анализам ЭКГ")
-exps_resp = requests.get(f"{BACKEND_URL}/experiments", timeout=10000)
-if exps_resp.status_code == 200:
+
+try:
+    exps_resp = requests.get(f"{BACKEND_URL}/experiments", timeout=10_000)
+    exps_resp.raise_for_status()
+
     logger.info("Успешно получен список обученных моделей с сервера.")
-    if "experiments" in exps_resp.json():
-        exps = exps_resp.json()["experiments"]
-        print(exps)
-        logger.info("Найдено %s обученных моделей.", str(len(exps)))
-    else:
+    exps = exps_resp.json().get("experiments", [])
+
+    if not exps:
         logger.warning("Список обученных моделей пуст.")
         st.error("Обученные модели отсутствуют.")
+        st.stop()
 
     # Выбор модели
     ids = [item["id"] for item in exps]
     selected_model = st.selectbox("Выберите модель для предсказания", ids)
     logger.info("Выбрана модель %s для прогноза", selected_model)
 
-    # Находим данные о выбранной модели
+    # Данные о выбранной модели
     model_data = next(item for item in exps if item["id"] == selected_model)
 
-    # Отображение данных о модели
     st.write("#### Информация о выбранной модели")
     st.write("**Метрики:**")
     st.json(model_data["metrics"])
@@ -370,40 +378,44 @@ if exps_resp.status_code == 200:
     st.json(model_data["params"])
 
     st.write("#### Получение прогноза о состоянии здоровья")
-    uploaded_file_prediction = st\
-        .file_uploader("Загрузите ZIP-файл для прогноза диагноза",
-                       type=["zip"])
-    if uploaded_file_prediction is not None \
-            and st.session_state["dataset_name_prediction"] is None:
-        logger.info("Файл для прогноза загружен: %s",
-                    uploaded_file_prediction.name)
-        st.session_state["dataset_name_prediction"] = \
-            uploaded_file_prediction.name
 
-    if uploaded_file_prediction is not None and st.button("Получить прогноз"):
-        st.session_state["prediction_triggered"] = True
+    with st.form("prediction_form"):
+        uploaded_file_prediction = st.file_uploader(
+            "Загрузите ZIP-файл для прогноза диагноза",
+            type=["zip"]
+        )
+        submit_button = st.form_submit_button("Получить прогноз")
 
-    if st.session_state["prediction_triggered"]:
-        logger.info("Начат процесс получения прогноза.")
-        # Подготовка данных для запроса
-        files = {"file": (uploaded_file_prediction.name,
-                          uploaded_file_prediction.read(),
-                          "application/zip")}
-        response = requests.post(f"{BACKEND_URL}/upload_inference",
-                                 files=files,
-                                 data={"model_name": selected_model},
-                                 timeout=10000)
-
-        if response.status_code == 200:
-            logger.info("Предсказание завершено успешно.")
-            result = response.json()
-            disease_names = result["predicts"]
-            disease_names_str = ', '.join(disease_names)
-            st.success(f"Ваш прогноз: {disease_names_str}. "
-                       f"Требуется консультация с врачом.")
+    if submit_button:
+        if uploaded_file_prediction is None:
+            st.warning("Пожалуйста, загрузите файл перед прогнозом.")
         else:
-            logger.error("Ошибка при выполнении предсказания: %s",
-                         response.text)
-            st.error(f"Ошибка при выполнении предсказания: {response.text}")
-else:
-    st.error("Ошибка получения списка обученных моделей")
+            logger.info("Файл для прогноза загружен: %s", uploaded_file_prediction.name)
+            files = {
+                "file": (uploaded_file_prediction.name, uploaded_file_prediction.read(), "application/zip")
+            }
+            response = requests.post(
+                f"{BACKEND_URL}/upload_inference",
+                files=files,
+                data={"model_name": selected_model},
+                timeout=10_000
+            )
+
+
+            if response.status_code == 200:
+                logger.info("Предсказание завершено успешно.")
+                result = response.json()
+                disease_names = result["predicts"]
+
+                disease_names_str = ', '.join(disease_names[0])
+                st.success(f"Ваш прогноз: {disease_names_str}.\nТребуется консультация с врачом.")
+            else:
+                logger.error("Ошибка при выполнении предсказания: %s", response.text)
+                st.error(f"Ошибка при выполнении предсказания: {response.text}")
+
+except (ConnectionError, Timeout):
+    logger.error("Не удалось подключиться к серверу по адресу %s", BACKEND_URL)
+    st.warning("Сервер прогружается, обновите страницу.")
+except requests.HTTPError as e:
+    logger.error("Сервер вернул ошибку: %s", str(e))
+    st.error("Ошибка получения списка обученных моделей.")

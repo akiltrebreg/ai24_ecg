@@ -8,3 +8,5 @@ joblib==1.4.2
 plotly==5.24.1
 python-multipart==0.0.20
 tsfel==0.1.9
+torch==2.7.0
+torchmetrics==1.7.2
